@@ -1,0 +1,16 @@
+﻿parent_skill_id,trigger,linked_skill_id,linked_move_kind,linked_precast_spr,linked_fly_spr,linked_travel_end_spr,linked_hit_spr,foreign_precast_warning
+302,fly,301,1,,\spr\skill\²¹³ä\Ô¶³Ì¹¥»÷.spr,,\spr\skill\Îå¶¾½Ì\bz_du1_±¬Õ¨.spr,
+328,start,329,0,\spr\skill\¶ëáÒ\mag_em_13_Ê©Ä§·¨.spr,\spr\skill\¶ëáÒ\mag_em_05_·ð¹âÆÕÕÕ.spr,,\spr\skill\¶ëáÒ\mag_bz_bin1_±¬Õ¨Ð§¹û.spr,
+336,collide,382,0,\spr\skill\¶ëáÒ\mag_em_13_Ê©Ä§·¨.spr,\spr\skill\cy\±ùÐÄÑ©Á«±¬Õ¨.spr,,\spr\skill\¶ëáÒ\mag_bz_bin1_±¬Õ¨Ð§¹û.spr,Y
+337,fly,338,0,\spr\skill\¶ëáÒ\mag_em_13_Ê©Ä§·¨.spr,\spr\skill\cy\xx_·çÑ©±ùÌì.spr,,,
+339,collide,340,0,\spr\skill\Îå¶¾½Ì\wdu_13_Ä§·¨Ê©·Å.spr,\spr\skill\tm\bz_Òøµ¶ÉäÔÂ.spr,,,Y
+351,collide,352,0,,\spr\skill\tm\bz_×ÏÉ«ÏÝÚå.spr,\spr\skill\tm\bz_×ÏÉ«ÏÝÚå.spr,,
+353,vanish,354,0,\spr\skill\Îå¶¾½Ì\wdu_13_Ä§·¨Ê©·Å.spr,\spr\skill\Îå¶¾½Ì\wdu_04_¾ÅÒõ°×¹Ç×¥.spr,\spr\skill\Îå¶¾½Ì\wdu_04_¾ÅÒõ°×¹Ç×¥ÏûÍö.spr,,Y
+355,collide,383,0,\spr\skill\Îå¶¾½Ì\wdu_13_Ä§·¨Ê©·Å.spr,\spr\skill\ÌÆÃÅ\bz_du3_±¬Õ¨.spr,\spr\skill\ÌÆÃÅ\bz_du3_±¬Õ¨.spr,,Y
+357,collide,389,0,\spr\skill\ÌìÈÌ\mag_tr_16_Ê©Ä§·¨.spr,\spr\skill\ÌìÈÌ\mag_bz_huo3_±¬Õ¨Ð§¹û.spr,,,Y
+362,vanish,363,1,\spr\skill\ÌìÈÌ\mag_tr_16_Ê©Ä§·¨.spr,\spr\skill\tr\Òµ»ð·Ù³Ç.spr,,,Y
+368,start,371,0,\spr\skill\À¥ÂØ\kl_16_Ä§·¨Ê©·Å.spr,\spr\skill\Îäµ±\wd_09_ÈË½£ºÏÒ»½£.spr,,\spr\skill\Îäµ±\Bz_dian1_±¬Õ¨.spr,
+368,collide,162,0,\spr\skill\À¥ÂØ\kl_16_Ä§·¨Ê©·Å.spr,,,\spr\skill\Îäµ±\wd_04_ÐþÒ»ÎÞÏó.spr,Y
+372,collide,373,0,\spr\skill\À¥ÂØ\kl_16_Ä§·¨Ê©·Å.spr,\spr\skill\kl\°ÁÑ©Ïô·ç.spr,,,Y
+375,collide,387,0,\spr\skill\À¥ÂØ\kl_16_Ä§·¨Ê©·Å.spr,\spr\skill\tm\À×»÷Êõ.spr,,\spr\skill\À¥ÂØ\Bz_dian3_±¬Õ¨.spr,Y
+380,start,331,5,\spr\skill\¶ëáÒ\mag_em_13_Ê©Ä§·¨.spr,\spr\skill\¶ëáÒ\mag_em_01_Æ®Ñ©´©ÔÆ.spr,,\spr\skill\¶ëáÒ\mag_bz_bin1_±¬Õ¨Ð§¹û.spr,

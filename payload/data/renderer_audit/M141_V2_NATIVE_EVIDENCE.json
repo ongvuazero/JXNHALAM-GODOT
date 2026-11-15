@@ -1,0 +1,89 @@
+{
+  "source": "JXNHALAM_NATIVE_COMBAT_V4_LOGS_20261112_112423.tgz",
+  "event": "MISSILE_FLY",
+  "parent_skill": 325,
+  "child_skill": 408,
+  "missile_template_id": 141,
+  "note": "missile_slot is a runtime slot, not missile template ID; map_x/map_y from this trace are not world pixel positions",
+  "sample": [
+    {
+      "missile_slot": 3,
+      "dir64": 3,
+      "x_factor": -327,
+      "y_factor": 978,
+      "current_life": 0,
+      "total_lifetime": 4,
+      "source_seq": 1404,
+      "elapsed_ms": 136139
+    },
+    {
+      "missile_slot": 8,
+      "dir64": 11,
+      "x_factor": -923,
+      "y_factor": 461,
+      "current_life": 0,
+      "total_lifetime": 4,
+      "source_seq": 1405,
+      "elapsed_ms": 136139
+    },
+    {
+      "missile_slot": 7,
+      "dir64": 19,
+      "x_factor": -979,
+      "y_factor": -327,
+      "current_life": 0,
+      "total_lifetime": 4,
+      "source_seq": 1406,
+      "elapsed_ms": 136139
+    }
+  ],
+  "native_binary_evidence": {
+    "visual_dispatch": "0x58A8A0 -> 0x5B2F50 -> 0x5FEBF0",
+    "main_render_state": "0x5FEBFE: compare state == 1; only then main SPR render branch",
+    "auxiliary_event": "0x5B2960: event index * 0xD4 selects one of four AnimFile slots",
+    "known_calls": {
+      "0x5B2E10": "emit event 0; state=0",
+      "0x5B3290": "emit event 2 or event 3 depending collision flag",
+      "0x5B28F0": "state=2"
+    },
+    "frame_selector": "0x5FEC67..0x5FED5D; 64 logical directions, SPR directions, frame time mode"
+  },
+  "spr": {
+    "fly": {
+      "path": "res://assets/skill90/jx90_truyphong_sweep.png",
+      "frames": 320,
+      "directions": 32,
+      "interval_header": 50,
+      "canvas": [
+        240,
+        240
+      ],
+      "center": [
+        120,
+        120
+      ],
+      "slot": "AnimFile2"
+    },
+    "impact": {
+      "path": "res://assets/skill90/jx90_truyphong_impact.png",
+      "frames": 6,
+      "directions": 1,
+      "interval_header": 20,
+      "canvas": [
+        200,
+        200
+      ],
+      "center": [
+        100,
+        107
+      ],
+      "slot": "AnimFile4"
+    }
+  },
+  "limits": [
+    "3 server missile objects do not prove 3 simultaneous visible arc-shaped sprites",
+    "source x/y fixed-point factors are not directly screen-pixel vectors",
+    "client duration and play-mode flag for M141 have not been measured",
+    "alternate AnimFileB4 refers to a distinct SPR, not included in this inspector"
+  ]
+}

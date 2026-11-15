@@ -1,0 +1,79 @@
+{
+  "status": "VERIFIED_STRUCTURE_NOT_RUNTIME_RENDER",
+  "sources": {
+    "route": "JXNHALAM_COMBAT_ROUTE_V3_6_LOGS_20261109_173403.tgz",
+    "allocations": "JXNHALAM_COMBAT_V3_5_LOGS_20261109_170920.tgz",
+    "settings_2024_binary_sha256": "c568f303e030fff98c09fc5a3363dc9832dd7f03e15bb976b15e2547210a40e0",
+    "metadata": "2024 settings skills/missles checked against packaged CTC 20121991 selected rows"
+  },
+  "known_limitations": [
+    "18Hz preview clock not measured against server",
+    "geometry and sprite identity not confirmed by actual client",
+    "damage is practice only",
+    "blue aura 1427 is distinct"
+  ],
+  "skills": {
+    "322": {
+      "combat_route": "DoManyAttack",
+      "route_verified_from": "V3.6, 95 dispatches shared among 322/323/325",
+      "child_skill_id": 326,
+      "child_casts_per_cast": 1,
+      "missile_id": 138,
+      "missile_allocations_per_child_cast": 3,
+      "allocated_missiles_per_cast": 3,
+      "inspection_relative_emit_ticks": [
+        10,
+        10,
+        10
+      ],
+      "timing_is_server_measured": false,
+      "source_2024_selected_fields_match_CTC_baseline": true,
+      "animfile2": "",
+      "animfile4": "\\spr\\skill\\tw\\×··ç¾ö.spr",
+      "animfileinfo2": "",
+      "animfileinfo4": "8,1,1"
+    },
+    "323": {
+      "combat_route": "DoManyAttack",
+      "route_verified_from": "V3.6, 95 dispatches shared among 322/323/325",
+      "child_skill_id": 327,
+      "child_casts_per_cast": 5,
+      "missile_id": 139,
+      "missile_allocations_per_child_cast": 1,
+      "allocated_missiles_per_cast": 5,
+      "inspection_relative_emit_ticks": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "timing_is_server_measured": false,
+      "source_2024_selected_fields_match_CTC_baseline": true,
+      "animfile2": "\\spr\\skill\\²¹³ä\\mag_npc_¶ÌÃ«.spr",
+      "animfile4": "\\spr\\skill\\sl\\½ðÁúÌ½×¦.spr",
+      "animfileinfo2": "64,16,1",
+      "animfileinfo4": "4,1,1"
+    },
+    "325": {
+      "combat_route": "DoManyAttack",
+      "route_verified_from": "V3.6, 95 dispatches shared among 322/323/325",
+      "child_skill_id": 408,
+      "child_casts_per_cast": 1,
+      "missile_id": 141,
+      "missile_allocations_per_child_cast": 3,
+      "allocated_missiles_per_cast": 3,
+      "inspection_relative_emit_ticks": [
+        4,
+        4,
+        4
+      ],
+      "timing_is_server_measured": false,
+      "source_2024_selected_fields_match_CTC_baseline": true,
+      "animfile2": "\\spr\\skill\\ÉÙÁÖ\\bz_bo1_½ð²¨.spr",
+      "animfile4": "\\spr\\skill\\²¹³ä\\BZ_é¢1.spr",
+      "animfileinfo2": "320,32,1",
+      "animfileinfo4": "6,1,1"
+    }
+  }
+}

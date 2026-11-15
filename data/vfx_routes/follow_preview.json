@@ -1,0 +1,21 @@
+{
+  "note": "MoveKind=5 is JX1 Follow. Screen speed, turn rate and spacing are QA-only calibration, not verified native values. 3 max visible is based on the reported gameplay reference.",
+  "357": {
+    "name": "Phi Long Tai Thien",
+    "max_visible_projectiles": 3,
+    "speed_px_per_s": 545.0,
+    "homing_turn_rate": 9.0,
+    "hit_range_px": 22.0,
+    "max_flight_seconds": 1.75,
+    "launch_spacing_seconds": 0.1
+  },
+  "359": {
+    "name": "Thien Ha Vo Cau",
+    "max_visible_projectiles": 3,
+    "speed_px_per_s": 500.0,
+    "homing_turn_rate": 11.0,
+    "hit_range_px": 20.0,
+    "max_flight_seconds": 1.85,
+    "launch_spacing_seconds": 0.1
+  }
+}

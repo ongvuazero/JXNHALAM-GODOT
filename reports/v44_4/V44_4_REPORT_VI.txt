@@ -1,0 +1,22 @@
+JXNHALAM V44.4 / VFX SOURCE IDENTITY AUDIT
+Source: settings/skills.txt + settings/missles.txt + extracted Lua event graph.
+Nine-school selected skills: 21
+TV skills excluded: 3
+Wrong non-TV bindings remaining: 0
+Distinct source SPR stage rows: 49
+Paths absent from known_hashes.json: 0 (NOT proof of absent PAK file)
+SPR rows claiming >512 frames: 1 (decoder limitation; actual file headers need verification)
+Lua event records at levels 1/10/20: 30
+GDScript headless runtime: NOT tested here. Source metadata is edition-specific.
+
+Confirmed comparison: earlier V44.3 school Thiếu Lâm 318 pointed to
+missile 134 SPR despite skills.txt ChildSkillId=317. V44.4 corrects
+missile ID, MoveKind=4, Speed=10 and both AnimFile2 / AnimFile4.
+MoveKind=4 trajectory remains NOT IMPLEMENTED; no wrong straight-line VFX.
+
+Skill 351 -> 352 Lua collision event exists, but actual client PAK SPRs
+and native event timing have not been verified. The exact source paths for
+351/352 DO exist in known_hashes.json after ASCII-only path normalization.
+Missile 161's AnimFileInfo2 lists 1080 frames, beyond JXSPRCodec.gd
+MAX_FRAMES=512. Do not fabricate replacement SPR. Existing signed/unsigned
+hash entries do NOT prove any particular PAK contains the resource.

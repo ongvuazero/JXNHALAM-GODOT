@@ -1,0 +1,9 @@
+The JXVirtualFS.gd NRV2B decompression algorithm was adapted from the
+JXNHALAM JX_PAK_READER_TEST.py research demonstrator, which credits
+UCL NRV2B by Markus Franz Xaver Johannes Oberhumer (1996-2002) and
+identifies its derivative code under GPL-2.0-or-later.
+This derivative NRV2B code is provided under GPL-2.0-or-later.
+The rest of the original project is not automatically subject to a
+verified single license; do not presume redistribution rights for bundled
+JX artwork, client files, scripts, or other third-party content.
+Full GNU GPL license: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html

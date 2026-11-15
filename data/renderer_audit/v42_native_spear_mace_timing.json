@@ -1,0 +1,36 @@
+{
+  "format": "jxnhalam.v42_native_form12_actor_clock",
+  "client_skills_sha256": "e57641d3f8e9ff41ec41269c1d4d7d968a0d004698b30452daa97211b97b96b0",
+  "game_exe_sha256": "f17d35df0fc473d379a79e6918e32619f9a47174f957bb77b680fd5bdbf315c9",
+  "scheduler_hz_nominal": 18,
+  "mode": "source-dataset-conditional",
+  "note": "FUN_005E99A0 mode1=MslsGenerateData+WaitTime; FUN_00575960 increments NPC current tick; FUN_005C6300 samples current action frame. Correction 0/2 NPC passes and real RNG are not simulated.",
+  "skills": {
+    "323": {
+      "weapon": "spear",
+      "skill_id": 323,
+      "child_skill_id": 327,
+      "child_casts": 5,
+      "skill_style": 1,
+      "missles_form": 12,
+      "generate_mode": 1,
+      "generate_step": 3,
+      "wait_ticks": 0,
+      "char_anim_id": 9,
+      "cycle_ticks": 3
+    },
+    "325": {
+      "weapon": "hammer",
+      "skill_id": 325,
+      "child_skill_id": 408,
+      "child_casts": 1,
+      "skill_style": 1,
+      "missles_form": 12,
+      "generate_mode": 1,
+      "generate_step": 4,
+      "wait_ticks": 0,
+      "char_anim_id": 9,
+      "cycle_ticks": 4
+    }
+  }
+}

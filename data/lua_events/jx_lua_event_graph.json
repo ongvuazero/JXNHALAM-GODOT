@@ -1,0 +1,7786 @@
+{
+  "format": "JXNHALAM_LUA_EVENT_GRAPH_V44_2",
+  "sources": {
+    "skill_table": "settings/skills.txt",
+    "missile_table": "settings/missles.txt",
+    "lua_dir": "ServerBaseline/script/skill/"
+  },
+  "not_executable_lua": true,
+  "semantics": "active events only; addskilldamage refs MUST NOT spawn visuals",
+  "level_assumption": "QA uses level 20 unless runtime supplies specific value",
+  "selected_skills": [
+    302,
+    318,
+    319,
+    321,
+    322,
+    323,
+    325,
+    328,
+    336,
+    337,
+    339,
+    342,
+    351,
+    353,
+    355,
+    357,
+    359,
+    361,
+    362,
+    365,
+    368,
+    372,
+    375,
+    380
+  ],
+  "skills": {
+    "162": {
+      "skill_id": 162,
+      "level": 20,
+      "skill_name_raw_latin1": "HuyÒn NhÊt V« T­îng",
+      "lua_script": "ServerBaseline/script/skill/wudang.lua",
+      "lua_key": "xuanyi_wuxiang",
+      "lua_line": 368,
+      "lua_definition_found": true,
+      "attack_radius_raw": 520,
+      "radius_lua_curve": {},
+      "child_skill_id": 27,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 27,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "",
+        "",
+        "\\spr\\skill\\Îäµ±\\wd_04_ÐþÒ»ÎÞÏó.spr"
+      ],
+      "anim_infos": [
+        "",
+        "",
+        "",
+        "8,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "301": {
+      "skill_id": 301,
+      "level": 20,
+      "skill_name_raw_latin1": "Truy Tinh Trôc §iÖn",
+      "lua_script": "ServerBaseline/script/skill/tangmen.lua",
+      "lua_key": "zhuixing_zhudian",
+      "lua_line": 376,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 126,
+      "child_skill_num_table": 8,
+      "missile_count_lua_level": 8,
+      "missile_id": 126,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\²¹³ä\\Ô¶³Ì¹¥»÷.spr",
+        "",
+        "\\spr\\skill\\Îå¶¾½Ì\\bz_du1_±¬Õ¨.spr"
+      ],
+      "anim_infos": [
+        "",
+        "16,16,1",
+        "",
+        "13,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 8,
+        "2": 8,
+        "3": 8,
+        "4": 8,
+        "5": 8,
+        "6": 8,
+        "7": 8,
+        "8": 8,
+        "9": 8,
+        "10": 8,
+        "11": 8,
+        "12": 8,
+        "13": 8,
+        "14": 8,
+        "15": 8,
+        "16": 8,
+        "17": 8,
+        "18": 8,
+        "19": 8,
+        "20": 8
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "302": {
+      "skill_id": 302,
+      "level": 20,
+      "skill_name_raw_latin1": "B¹o Vò Lª Hoa",
+      "lua_script": "ServerBaseline/script/skill/tangmen.lua",
+      "lua_key": "baoyu_lihua",
+      "lua_line": 335,
+      "lua_definition_found": true,
+      "attack_radius_raw": 470,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            480
+          ],
+          [
+            21,
+            480
+          ]
+        ]
+      },
+      "child_skill_id": 96,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 96,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\ÌÆÃÅ\\tm_07_Ð¡Àî·Éµ¶.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "90,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 30,
+      "events": [
+        {
+          "trigger": "fly",
+          "skill_id": 301,
+          "source": "lua_curve",
+          "lua_field": "skill_flyevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "2": [
+              [
+                1,
+                30
+              ],
+              [
+                20,
+                30
+              ],
+              [
+                60,
+                10
+              ],
+              [
+                61,
+                10
+              ]
+            ],
+            "3": [
+              [
+                1,
+                301
+              ],
+              [
+                20,
+                301
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 301,
+          "evidence": "lua_curve"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1070,
+          "bonus_at_level": 52,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "duong_mon",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "fly",
+            "skill_id": 301,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 30,
+        "2": 30,
+        "3": 30,
+        "4": 30,
+        "5": 30,
+        "6": 30,
+        "7": 30,
+        "8": 30,
+        "9": 30,
+        "10": 30,
+        "11": 30,
+        "12": 30,
+        "13": 30,
+        "14": 30,
+        "15": 30,
+        "16": 30,
+        "17": 30,
+        "18": 30,
+        "19": 30,
+        "20": 30
+      }
+    },
+    "318": {
+      "skill_id": 318,
+      "level": 20,
+      "skill_name_raw_latin1": "§¹t Ma §é Giang",
+      "lua_script": "ServerBaseline/script/skill/shaolin.lua",
+      "lua_key": "damo_dujiang",
+      "lua_line": 197,
+      "lua_definition_found": true,
+      "attack_radius_raw": 90,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ]
+      },
+      "child_skill_id": 317,
+      "child_skill_num_table": 2,
+      "missile_count_lua_level": 2,
+      "missile_id": 317,
+      "move_kind": 4,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\150\\sl\\sl_150_longchenbannuo_c.spr",
+        "",
+        "\\spr\\skill\\150\\sl\\sl_150_longchenbannuo_d.spr"
+      ],
+      "anim_infos": [
+        "",
+        "128,16,1",
+        "",
+        "14,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1083,
+          "bonus_at_level": 50,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1055,
+          "bonus_at_level": 50,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thieu_lam",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 2,
+        "12": 2,
+        "13": 2,
+        "14": 2,
+        "15": 2,
+        "16": 2,
+        "17": 2,
+        "18": 2,
+        "19": 2,
+        "20": 2
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "319": {
+      "skill_id": 319,
+      "level": 20,
+      "skill_name_raw_latin1": "Hoµnh T¶o Thiªn Qu©n",
+      "lua_script": "ServerBaseline/script/skill/shaolin.lua",
+      "lua_key": "hengsao_qianjun",
+      "lua_line": 278,
+      "lua_definition_found": true,
+      "attack_radius_raw": 75,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            128
+          ],
+          [
+            20,
+            128
+          ]
+        ]
+      },
+      "child_skill_id": 135,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 135,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\sl\\bz_ºáÉ¨Ç§¾ü.spr",
+        "",
+        "\\spr\\skill\\sl\\½ðÁúÌ½×¦.spr"
+      ],
+      "anim_infos": [
+        "",
+        "8,1,1",
+        "",
+        "6,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1056,
+          "bonus_at_level": 20,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thieu_lam",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "321": {
+      "skill_id": 321,
+      "level": 20,
+      "skill_name_raw_latin1": "V« T­íng Tr¶m",
+      "lua_script": "ServerBaseline/script/skill/shaolin.lua",
+      "lua_key": "wuxiang_zhan",
+      "lua_line": 349,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 136,
+      "child_skill_num_table": 2,
+      "missile_count_lua_level": 2,
+      "missile_id": 136,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\sl\\ÎÞÏòÕ¶.spr",
+        "",
+        "\\spr\\skill\\ÉÙÁÖ\\sl_04_»ÛÑÛÖä.spr"
+      ],
+      "anim_infos": [
+        "",
+        "128,16,1",
+        "",
+        "20,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1057,
+          "bonus_at_level": 18,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thieu_lam",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 2,
+        "12": 2,
+        "13": 2,
+        "14": 2,
+        "15": 2,
+        "16": 2,
+        "17": 2,
+        "18": 2,
+        "19": 2,
+        "20": 2
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "322": {
+      "skill_id": 322,
+      "level": 20,
+      "skill_name_raw_latin1": "Ph¸ Thiªn Tr¶m",
+      "lua_script": "ServerBaseline/script/skill/tianwang.lua",
+      "lua_key": "potian_zhan",
+      "lua_line": 331,
+      "lua_definition_found": true,
+      "attack_radius_raw": 90,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ]
+      },
+      "child_skill_id": 326,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 326,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\1502\\cy\\cy_150_daocui_zd.spr",
+        "",
+        "\\spr\\skill\\1502\\cy\\cy_150_daocui_bz.spr"
+      ],
+      "anim_infos": [
+        "",
+        "16,16,1",
+        "",
+        "10,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1058,
+          "bonus_at_level": 35,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1086,
+          "bonus_at_level": 35,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        },
+        {
+          "skill_id": 1084,
+          "bonus_at_level": 35,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage3"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thien_vuong",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "323": {
+      "skill_id": 323,
+      "level": 20,
+      "skill_name_raw_latin1": "Truy Tinh Trôc NguyÖt",
+      "lua_script": "ServerBaseline/script/skill/tianwang.lua",
+      "lua_key": "zhuixing_zhuyue",
+      "lua_line": 412,
+      "lua_definition_found": true,
+      "attack_radius_raw": 90,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ]
+      },
+      "child_skill_id": 327,
+      "child_skill_num_table": 5,
+      "missile_count_lua_level": 5,
+      "missile_id": 327,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\1502\\cy\\cy_150_neicui_xz.spr",
+        "",
+        "\\spr\\skill\\150\\cy\\cy_150_bingqueluanxue_d.spr"
+      ],
+      "anim_infos": [
+        "",
+        "16,16,1",
+        "",
+        "8,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1060,
+          "bonus_at_level": 45,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1088,
+          "bonus_at_level": 45,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thien_vuong",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 5,
+        "2": 5,
+        "3": 5,
+        "4": 5,
+        "5": 5,
+        "6": 5,
+        "7": 5,
+        "8": 5,
+        "9": 5,
+        "10": 5,
+        "11": 5,
+        "12": 5,
+        "13": 5,
+        "14": 5,
+        "15": 5,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 5,
+        "20": 5
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "325": {
+      "skill_id": 325,
+      "level": 20,
+      "skill_name_raw_latin1": "Truy Phong QuyÕt",
+      "lua_script": "ServerBaseline/script/skill/tianwang.lua",
+      "lua_key": "zhuifeng_jue",
+      "lua_line": 483,
+      "lua_definition_found": true,
+      "attack_radius_raw": 72,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ]
+      },
+      "child_skill_id": 408,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 408,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1059,
+          "bonus_at_level": 42,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1087,
+          "bonus_at_level": 42,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thien_vuong",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "328": {
+      "skill_id": 328,
+      "level": 20,
+      "skill_name_raw_latin1": "Tam Nga TÒ TuyÕt",
+      "lua_script": "ServerBaseline/script/skill/emei.lua",
+      "lua_key": "sane_jixue",
+      "lua_line": 182,
+      "lua_definition_found": true,
+      "attack_radius_raw": 360,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 142,
+      "child_skill_num_table": 3,
+      "missile_count_lua_level": 3,
+      "missile_id": 142,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_em_04_²»Ãð²»¾ø.spr",
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_em_bin4_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "64,16,1",
+        "",
+        "6,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "start",
+          "skill_id": 329,
+          "source": "lua_curve",
+          "lua_field": "skill_startevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                329
+              ],
+              [
+                20,
+                329
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 329,
+          "evidence": "lua_curve"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1061,
+          "bonus_at_level": 25,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "nga_mi",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "start",
+            "skill_id": 329,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 3,
+        "13": 3,
+        "14": 3,
+        "15": 3,
+        "16": 3,
+        "17": 3,
+        "18": 3,
+        "19": 3,
+        "20": 3
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "329": {
+      "skill_id": 329,
+      "level": 20,
+      "skill_name_raw_latin1": "Ngäc TuyÒn TÈy TrÇn",
+      "lua_script": "ServerBaseline/script/skill/emei.lua",
+      "lua_key": "yuquan_xichen",
+      "lua_line": 226,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 143,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 143,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_em_05_·ð¹âÆÕÕÕ.spr",
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_bz_bin1_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "8,1,2",
+        "",
+        "7,1,2"
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "331": {
+      "skill_id": 331,
+      "level": 20,
+      "skill_name_raw_latin1": "Kim §Ønh PhËt Quang",
+      "lua_script": "ServerBaseline/script/skill/emei.lua",
+      "lua_key": "jinding_foguang",
+      "lua_line": 336,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 144,
+      "child_skill_num_table": 4,
+      "missile_count_lua_level": 3,
+      "missile_id": 144,
+      "move_kind": 5,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_em_01_Æ®Ñ©´©ÔÆ.spr",
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_bz_bin1_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "64,16,1",
+        "",
+        "14,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 3
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "336": {
+      "skill_id": 336,
+      "level": 20,
+      "skill_name_raw_latin1": "B¨ng Tung V« ¶nh",
+      "lua_script": "ServerBaseline/script/skill/cuiyan.lua",
+      "lua_key": "bingzong_wuying",
+      "lua_line": 205,
+      "lua_definition_found": true,
+      "attack_radius_raw": 360,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 146,
+      "child_skill_num_table": 5,
+      "missile_count_lua_level": 5,
+      "missile_id": 146,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\´äÑÌ\\mag_cy_01_·çÔÆÍ»Æð.spr",
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_bz_bin2_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "48,16,1",
+        "",
+        "6,1,2"
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "collide",
+          "skill_id": 382,
+          "source": "lua_curve",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                382
+              ],
+              [
+                20,
+                382
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 382,
+          "evidence": "lua_curve"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1063,
+          "bonus_at_level": 120,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1064,
+          "bonus_at_level": 120,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thuy_yen",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "collide",
+            "skill_id": 382,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 5
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "337": {
+      "skill_id": 337,
+      "level": 20,
+      "skill_name_raw_latin1": "B¨ng T©m Tiªn Tö",
+      "lua_script": "ServerBaseline/script/skill/cuiyan.lua",
+      "lua_key": "bingxin_xianzi",
+      "lua_line": 323,
+      "lua_definition_found": true,
+      "attack_radius_raw": 240,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 147,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 147,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\cy\\·çÑ©±ùÌì.spr",
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_bz_bin1_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "128,16,1",
+        "",
+        "14,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 3,
+      "events": [
+        {
+          "trigger": "fly",
+          "skill_id": 338,
+          "source": "lua_curve",
+          "lua_field": "skill_flyevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "2": [
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                3
+              ]
+            ],
+            "3": [
+              [
+                1,
+                338
+              ],
+              [
+                20,
+                338
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 338,
+          "evidence": "lua_curve"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1065,
+          "bonus_at_level": 45,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1093,
+          "bonus_at_level": 45,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thuy_yen",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "fly",
+            "skill_id": 338,
+            "source": "lua_curve",
+            "lua_field": "skill_flyevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 3,
+        "13": 3,
+        "14": 3,
+        "15": 3,
+        "16": 3,
+        "17": 3,
+        "18": 3,
+        "19": 3,
+        "20": 3
+      }
+    },
+    "338": {
+      "skill_id": 338,
+      "level": 20,
+      "skill_name_raw_latin1": "Phong TuyÕt B¨ng Thiªn",
+      "lua_script": "ServerBaseline/script/skill/cuiyan.lua",
+      "lua_key": "fengxue_bingtian",
+      "lua_line": 374,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 148,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 148,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\cy\\xx_·çÑ©±ùÌì.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "40,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "339": {
+      "skill_id": 339,
+      "level": 20,
+      "skill_name_raw_latin1": "NhiÕp Hån NguyÖt ¶nh",
+      "lua_script": "ServerBaseline/script/skill/tangmen.lua",
+      "lua_key": "shehun_yueying",
+      "lua_line": 250,
+      "lua_definition_found": true,
+      "attack_radius_raw": 360,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 149,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 149,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tm\\Òøµ¶ÉäÔÂ_02.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "18,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "collide",
+          "skill_id": 340,
+          "source": "lua_curve",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                340
+              ],
+              [
+                20,
+                340
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 340,
+          "evidence": "lua_curve"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1069,
+          "bonus_at_level": 42,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "duong_mon",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "collide",
+            "skill_id": 340,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "340": {
+      "skill_id": 340,
+      "level": 20,
+      "skill_name_raw_latin1": "Ng©n §ao X¹ NguyÖt",
+      "lua_script": "ServerBaseline/script/skill/tangmen.lua",
+      "lua_key": "yindao_sheyue",
+      "lua_line": 291,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 150,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 150,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tm\\bz_Òøµ¶ÉäÔÂ.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "16,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\Îå¶¾½Ì\\wdu_13_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "342": {
+      "skill_id": 342,
+      "level": 20,
+      "skill_name_raw_latin1": "Cöu Cung Phi Tinh",
+      "lua_script": "ServerBaseline/script/skill/tangmen.lua",
+      "lua_key": "jiugong_feixing",
+      "lua_line": 422,
+      "lua_definition_found": true,
+      "attack_radius_raw": 360,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 152,
+      "child_skill_num_table": 5,
+      "missile_count_lua_level": 5,
+      "missile_id": 152,
+      "move_kind": 100,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tm\\¾Å¹¬·ÉÐÇ.spr",
+        "",
+        "\\spr\\skill\\tm\\¾Å¹¬·ÉÐÇ.spr"
+      ],
+      "anim_infos": [
+        "",
+        "8,1,1",
+        "",
+        "8,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1071,
+          "bonus_at_level": 80,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1099,
+          "bonus_at_level": 60,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        },
+        {
+          "skill_id": 1100,
+          "bonus_at_level": 60,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage3"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "duong_mon",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 5,
+        "2": 5,
+        "3": 5,
+        "4": 5,
+        "5": 5,
+        "6": 5,
+        "7": 5,
+        "8": 5,
+        "9": 5,
+        "10": 5,
+        "11": 5,
+        "12": 5,
+        "13": 5,
+        "14": 5,
+        "15": 5,
+        "16": 5,
+        "17": 5,
+        "18": 5,
+        "19": 5,
+        "20": 5
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "351": {
+      "skill_id": 351,
+      "level": 20,
+      "skill_name_raw_latin1": "Lo¹n Hoµn KÝch",
+      "lua_script": "ServerBaseline/script/skill/tangmen.lua",
+      "lua_key": "luanhuan_ji",
+      "lua_line": 213,
+      "lua_definition_found": true,
+      "attack_radius_raw": 50,
+      "radius_lua_curve": {},
+      "child_skill_id": 161,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 161,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tm\\xj_×ÏÉ«ÏÝÚå.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "1080,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "collide",
+          "skill_id": 352,
+          "source": "skills_txt",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 1,
+          "effective_skill_id": 352,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": true,
+      "sect": "duong_mon",
+      "event_levels": {
+        "1": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 1,
+            "verified_visual_timing": false
+          }
+        ],
+        "2": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 2,
+            "verified_visual_timing": false
+          }
+        ],
+        "3": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 3,
+            "verified_visual_timing": false
+          }
+        ],
+        "4": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 4,
+            "verified_visual_timing": false
+          }
+        ],
+        "5": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 5,
+            "verified_visual_timing": false
+          }
+        ],
+        "6": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 6,
+            "verified_visual_timing": false
+          }
+        ],
+        "7": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 7,
+            "verified_visual_timing": false
+          }
+        ],
+        "8": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 8,
+            "verified_visual_timing": false
+          }
+        ],
+        "9": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 9,
+            "verified_visual_timing": false
+          }
+        ],
+        "10": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "collide",
+            "skill_id": 352,
+            "source": "skills_txt",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "352": {
+      "skill_id": 352,
+      "level": 20,
+      "skill_name_raw_latin1": "Lo¹n Hoµn KÝch",
+      "lua_script": "ServerBaseline/script/skill/tangmen.lua",
+      "lua_key": "luanhuan_ji",
+      "lua_line": 213,
+      "lua_definition_found": true,
+      "attack_radius_raw": 0,
+      "radius_lua_curve": {},
+      "child_skill_id": 162,
+      "child_skill_num_table": 4,
+      "missile_count_lua_level": 4,
+      "missile_id": 162,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tm\\bz_×ÏÉ«ÏÝÚå.spr",
+        "\\spr\\skill\\tm\\bz_×ÏÉ«ÏÝÚå.spr",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "27,1,1",
+        "27,1,1",
+        ""
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 4,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 4,
+        "13": 4,
+        "14": 4,
+        "15": 4,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 4,
+        "20": 4
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "353": {
+      "skill_id": 353,
+      "level": 20,
+      "skill_name_raw_latin1": "¢m Phong Thùc Cèt",
+      "lua_script": "ServerBaseline/script/skill/wudu.lua",
+      "lua_key": "yinfeng_shigu",
+      "lua_line": 188,
+      "lua_definition_found": true,
+      "attack_radius_raw": 420,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            480
+          ],
+          [
+            21,
+            480
+          ]
+        ]
+      },
+      "child_skill_id": 163,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 163,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\wu\\Òõ·çÊ´¹Ç.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "20,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\Îå¶¾½Ì\\wdu_13_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 6,
+      "events": [
+        {
+          "trigger": "vanish",
+          "skill_id": 354,
+          "source": "lua_curve",
+          "lua_field": "skill_vanishedevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "2": [
+              [
+                1,
+                6
+              ],
+              [
+                2,
+                6
+              ]
+            ],
+            "3": [
+              [
+                1,
+                388
+              ],
+              [
+                20,
+                388
+              ]
+            ]
+          },
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                354
+              ],
+              [
+                20,
+                354
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 354,
+          "evidence": "lua_curve"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1066,
+          "bonus_at_level": 60,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1094,
+          "bonus_at_level": 60,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        },
+        {
+          "skill_id": 1096,
+          "bonus_at_level": 60,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage3"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "ngu_doc",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "vanish",
+            "skill_id": 354,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6,
+        "7": 6,
+        "8": 6,
+        "9": 6,
+        "10": 6,
+        "11": 6,
+        "12": 6,
+        "13": 6,
+        "14": 6,
+        "15": 6,
+        "16": 6,
+        "17": 6,
+        "18": 6,
+        "19": 6,
+        "20": 6
+      }
+    },
+    "354": {
+      "skill_id": 354,
+      "level": 20,
+      "skill_name_raw_latin1": "Thiªn C­¬ng §éc Thñ",
+      "lua_script": "ServerBaseline/script/skill/wudu.lua",
+      "lua_key": "tiangang_dushou",
+      "lua_line": 277,
+      "lua_definition_found": true,
+      "attack_radius_raw": 420,
+      "radius_lua_curve": {},
+      "child_skill_id": 164,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 164,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\Îå¶¾½Ì\\wdu_04_¾ÅÒõ°×¹Ç×¥.spr",
+        "\\spr\\skill\\Îå¶¾½Ì\\wdu_04_¾ÅÒõ°×¹Ç×¥ÏûÍö.spr",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "8,1,1",
+        "13,1,4",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\Îå¶¾½Ì\\wdu_13_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "355": {
+      "skill_id": 355,
+      "level": 20,
+      "skill_name_raw_latin1": "HuyÒn ¢m Tr¶m",
+      "lua_script": "ServerBaseline/script/skill/wudu.lua",
+      "lua_key": "xuanyin_zhan",
+      "lua_line": 281,
+      "lua_definition_found": true,
+      "attack_radius_raw": 180,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 165,
+      "child_skill_num_table": 2,
+      "missile_count_lua_level": 2,
+      "missile_id": 165,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\wu\\ÐþÚ¤ÎüÐÇ.spr",
+        "",
+        "\\spr\\skill\\Îå¶¾½Ì\\bz_du2_±¬Õ¨.spr"
+      ],
+      "anim_infos": [
+        "",
+        "128,16,1",
+        "",
+        "6,1,1"
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "collide",
+          "skill_id": 383,
+          "source": "lua_curve",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                383
+              ],
+              [
+                20,
+                383
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 383,
+          "evidence": "lua_curve"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1067,
+          "bonus_at_level": 32,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "ngu_doc",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "collide",
+            "skill_id": 383,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2,
+        "11": 2,
+        "12": 2,
+        "13": 2,
+        "14": 2,
+        "15": 2,
+        "16": 2,
+        "17": 2,
+        "18": 2,
+        "19": 2,
+        "20": 2
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "357": {
+      "skill_id": 357,
+      "level": 20,
+      "skill_name_raw_latin1": "Phi Long T¹i Thiªn",
+      "lua_script": "ServerBaseline/script/skill/gaibang.lua",
+      "lua_key": "feilong_zaitian",
+      "lua_line": 142,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 166,
+      "child_skill_num_table": 3,
+      "missile_count_lua_level": 4,
+      "missile_id": 166,
+      "move_kind": 5,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\Ø¤°ï\\mag_gb_05_¿ºÁúÓÐ»Ú.spr",
+        "",
+        "\\spr\\skill\\Ø¤°ï\\mag_gb_bz5_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "80,16,1",
+        "",
+        "6,1,2"
+      ],
+      "precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "collide",
+          "skill_id": 389,
+          "source": "lua_curve",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                389
+              ],
+              [
+                20,
+                389
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 389,
+          "evidence": "lua_curve"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1073,
+          "bonus_at_level": 25,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        },
+        {
+          "skill_id": 1101,
+          "bonus_at_level": 25,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage2"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "cai_bang",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "collide",
+            "skill_id": 389,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 2,
+        "13": 2,
+        "14": 2,
+        "15": 2,
+        "16": 3,
+        "17": 3,
+        "18": 3,
+        "19": 3,
+        "20": 4
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "359": {
+      "skill_id": 359,
+      "level": 20,
+      "skill_name_raw_latin1": "Thiªn H¹ V« CÈu",
+      "lua_script": "ServerBaseline/script/skill/gaibang.lua",
+      "lua_key": "tianxia_wugou",
+      "lua_line": 271,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 168,
+      "child_skill_num_table": 16,
+      "missile_count_lua_level": 3,
+      "missile_id": 168,
+      "move_kind": 5,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\Ø¤°ï\\mag_gb_04_ÌìÏÂÎÞ¹·.spr",
+        "",
+        "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "64,16,1",
+        "",
+        "18,1,2"
+      ],
+      "precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_tr_16_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1074,
+          "bonus_at_level": 25,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "cai_bang",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 3
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "361": {
+      "skill_id": 361,
+      "level": 20,
+      "skill_name_raw_latin1": "V©n Long KÝch",
+      "lua_script": "ServerBaseline/script/skill/tianren.lua",
+      "lua_key": "yunlong_ji",
+      "lua_line": 181,
+      "lua_definition_found": true,
+      "attack_radius_raw": 60,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ]
+      },
+      "child_skill_id": 169,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 169,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\À¥ÂØ\\kl_02_¼²µç·¨a.spr",
+        "",
+        "\\spr\\skill\\tr\\ÔÆÁú»÷.spr"
+      ],
+      "anim_infos": [
+        "",
+        "160,16,1",
+        "",
+        "6,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_tr_09_ÍµÌì»»ÈÕ.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1075,
+          "bonus_at_level": 30,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thien_nhan",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "362": {
+      "skill_id": 362,
+      "level": 20,
+      "skill_name_raw_latin1": "Thiªn Ngo¹i L­u Tinh",
+      "lua_script": "ServerBaseline/script/skill/tianren.lua",
+      "lua_key": "tianwai_liuxing",
+      "lua_line": 285,
+      "lua_definition_found": true,
+      "attack_radius_raw": 420,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            480
+          ],
+          [
+            21,
+            480
+          ]
+        ]
+      },
+      "child_skill_id": 171,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 171,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tr\\zd_Òµ»ð·Ù³Ç.spr",
+        "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr",
+        "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "18,1,1",
+        "6,1,1",
+        "6,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_tr_16_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "vanish",
+          "skill_id": 363,
+          "source": "lua_curve",
+          "lua_field": "skill_vanishedevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                363
+              ],
+              [
+                20,
+                363
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 363,
+          "evidence": "lua_curve"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1076,
+          "bonus_at_level": 55,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "thien_nhan",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "vanish",
+            "skill_id": 363,
+            "source": "lua_curve",
+            "lua_field": "skill_vanishedevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "363": {
+      "skill_id": 363,
+      "level": 20,
+      "skill_name_raw_latin1": "NghiÖp Háa Phµn Thµnh",
+      "lua_script": "ServerBaseline/script/skill/tianren.lua",
+      "lua_key": "yehuo_fencheng",
+      "lua_line": 358,
+      "lua_definition_found": true,
+      "attack_radius_raw": 570,
+      "radius_lua_curve": {},
+      "child_skill_id": 170,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 170,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tr\\Òµ»ð·Ù³Ç.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "\"35,1,1\"",
+        "",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_tr_16_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "365": {
+      "skill_id": 365,
+      "level": 20,
+      "skill_name_raw_latin1": "Thiªn §Þa V« Cùc",
+      "lua_script": "ServerBaseline/script/skill/wudang.lua",
+      "lua_key": "tiandi_wuji",
+      "lua_line": 166,
+      "lua_definition_found": true,
+      "attack_radius_raw": 470,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            20,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 173,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 173,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\wd\\ÌìµØÎÞ¼«.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "20,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1078,
+          "bonus_at_level": 60,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "vo_dang",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "368": {
+      "skill_id": 368,
+      "level": 20,
+      "skill_name_raw_latin1": "Nh©n KiÕm Hîp NhÊt",
+      "lua_script": "ServerBaseline/script/skill/wudang.lua",
+      "lua_key": "renjian_heyi",
+      "lua_line": 271,
+      "lua_definition_found": true,
+      "attack_radius_raw": 90,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ]
+      },
+      "child_skill_id": 175,
+      "child_skill_num_table": 3,
+      "missile_count_lua_level": 3,
+      "missile_id": 175,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\ÌÆÃÅ\\tm_11_µçµØÀ×.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "160,16,1",
+        "",
+        ""
+      ],
+      "precast_spr": "",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "start",
+          "skill_id": 371,
+          "source": "lua_curve",
+          "lua_field": "skill_startevent",
+          "level": 20,
+          "verified_visual_timing": false
+        },
+        {
+          "trigger": "collide",
+          "skill_id": 162,
+          "source": "lua_curve",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                371
+              ],
+              [
+                20,
+                371
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 371,
+          "evidence": "lua_curve"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                15,
+                0
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                162
+              ],
+              [
+                20,
+                162
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 162,
+          "evidence": "lua_curve"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1079,
+          "bonus_at_level": 35,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "vo_dang",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 15,
+            "verified_visual_timing": false
+          },
+          {
+            "trigger": "collide",
+            "skill_id": 162,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 16,
+            "verified_visual_timing": false
+          },
+          {
+            "trigger": "collide",
+            "skill_id": 162,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 17,
+            "verified_visual_timing": false
+          },
+          {
+            "trigger": "collide",
+            "skill_id": 162,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 18,
+            "verified_visual_timing": false
+          },
+          {
+            "trigger": "collide",
+            "skill_id": 162,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 19,
+            "verified_visual_timing": false
+          },
+          {
+            "trigger": "collide",
+            "skill_id": 162,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "start",
+            "skill_id": 371,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 20,
+            "verified_visual_timing": false
+          },
+          {
+            "trigger": "collide",
+            "skill_id": 162,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 3,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 3,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3,
+        "11": 3,
+        "12": 3,
+        "13": 3,
+        "14": 3,
+        "15": 3,
+        "16": 3,
+        "17": 3,
+        "18": 3,
+        "19": 3,
+        "20": 3
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "371": {
+      "skill_id": 371,
+      "level": 20,
+      "skill_name_raw_latin1": "Th¸i Cùc KiÕm ý",
+      "lua_script": "ServerBaseline/script/skill/wudang.lua",
+      "lua_key": "taiji_jianyi",
+      "lua_line": 383,
+      "lua_definition_found": true,
+      "attack_radius_raw": 470,
+      "radius_lua_curve": {},
+      "child_skill_id": 176,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 176,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\Îäµ±\\wd_09_ÈË½£ºÏÒ»½£.spr",
+        "",
+        "\\spr\\skill\\Îäµ±\\Bz_dian1_±¬Õ¨.spr"
+      ],
+      "anim_infos": [
+        "",
+        "11,1,1",
+        "",
+        "8,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "372": {
+      "skill_id": 372,
+      "level": 20,
+      "skill_name_raw_latin1": "Ng¹o TuyÕt Tiªu Phong",
+      "lua_script": "ServerBaseline/script/skill/kunlun.lua",
+      "lua_key": "aoxue_xiaofeng",
+      "lua_line": 289,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {
+        "1": [
+          [
+            1,
+            448
+          ],
+          [
+            20,
+            512
+          ],
+          [
+            21,
+            512
+          ]
+        ]
+      },
+      "child_skill_id": 178,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 178,
+      "move_kind": 1,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\À¥ÂØ\\kl_03_¿ñ·çÖèµç.spr",
+        "",
+        "\\spr\\skill\\À¥ÂØ\\Bz_dian3_±¬Õ¨.spr"
+      ],
+      "anim_infos": [
+        "",
+        "20,1,1",
+        "",
+        "8,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "collide",
+          "skill_id": 373,
+          "source": "lua_curve",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                373
+              ],
+              [
+                20,
+                373
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 373,
+          "evidence": "lua_curve"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1080,
+          "bonus_at_level": 35,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "con_lon",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "collide",
+            "skill_id": 373,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "373": {
+      "skill_id": 373,
+      "level": 20,
+      "skill_name_raw_latin1": "KhiÕu Phong Tam Liªn KÝch",
+      "lua_script": "ServerBaseline/script/skill/kunlun.lua",
+      "lua_key": "xiaofeng_sanlianji",
+      "lua_line": 392,
+      "lua_definition_found": true,
+      "attack_radius_raw": 470,
+      "radius_lua_curve": {},
+      "child_skill_id": 179,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 179,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\kl\\°ÁÑ©Ïô·ç.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "54,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "375": {
+      "skill_id": 375,
+      "level": 20,
+      "skill_name_raw_latin1": "L«i ®éng Cöu Thiªn",
+      "lua_script": "ServerBaseline/script/skill/kunlun.lua",
+      "lua_key": "leidong_jiutian",
+      "lua_line": 199,
+      "lua_definition_found": true,
+      "attack_radius_raw": 470,
+      "radius_lua_curve": {},
+      "child_skill_id": 181,
+      "child_skill_num_table": 4,
+      "missile_count_lua_level": 4,
+      "missile_id": 181,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\kl\\À×¶¯¾ÅÌì.spr",
+        "",
+        "\\spr\\skill\\À¥ÂØ\\Bz_dian3_±¬Õ¨.spr"
+      ],
+      "anim_infos": [
+        "",
+        "6,1,2",
+        "",
+        "8,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "collide",
+          "skill_id": 387,
+          "source": "lua_curve",
+          "lua_field": "skill_collideevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                387
+              ],
+              [
+                20,
+                387
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 387,
+          "evidence": "lua_curve"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1109,
+          "bonus_at_level": 35,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "con_lon",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "collide",
+            "skill_id": 387,
+            "source": "lua_curve",
+            "lua_field": "skill_collideevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 4,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 4,
+        "6": 4,
+        "7": 4,
+        "8": 4,
+        "9": 4,
+        "10": 4,
+        "11": 4,
+        "12": 4,
+        "13": 4,
+        "14": 4,
+        "15": 4,
+        "16": 4,
+        "17": 4,
+        "18": 4,
+        "19": 4,
+        "20": 4
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "380": {
+      "skill_id": 380,
+      "level": 20,
+      "skill_name_raw_latin1": "Phong S­¬ng To¸i ¶nh",
+      "lua_script": "ServerBaseline/script/skill/emei.lua",
+      "lua_key": "fengshuang_suiying",
+      "lua_line": 296,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 186,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 186,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\em\\em_±ùÐÄèóÒô.spr",
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_bz_bin1_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "40,1,1",
+        "",
+        "7,1,2"
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [
+        {
+          "trigger": "start",
+          "skill_id": 331,
+          "source": "lua_curve",
+          "lua_field": "skill_startevent",
+          "level": 20,
+          "verified_visual_timing": false
+        }
+      ],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": true,
+          "curve": {
+            "1": [
+              [
+                1,
+                0
+              ],
+              [
+                10,
+                0
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "3": [
+              [
+                1,
+                331
+              ],
+              [
+                20,
+                331
+              ]
+            ]
+          },
+          "effective_flag": 1,
+          "effective_skill_id": 331,
+          "evidence": "lua_curve"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [
+        {
+          "skill_id": 1062,
+          "bonus_at_level": 25,
+          "kind": "damage_reference_not_visual_event",
+          "field": "addskilldamage1"
+        }
+      ],
+      "is_selected_combat_skill": true,
+      "sect": "nga_mi",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 10,
+            "verified_visual_timing": false
+          }
+        ],
+        "11": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 11,
+            "verified_visual_timing": false
+          }
+        ],
+        "12": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 12,
+            "verified_visual_timing": false
+          }
+        ],
+        "13": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 13,
+            "verified_visual_timing": false
+          }
+        ],
+        "14": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 14,
+            "verified_visual_timing": false
+          }
+        ],
+        "15": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 15,
+            "verified_visual_timing": false
+          }
+        ],
+        "16": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 16,
+            "verified_visual_timing": false
+          }
+        ],
+        "17": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 17,
+            "verified_visual_timing": false
+          }
+        ],
+        "18": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 18,
+            "verified_visual_timing": false
+          }
+        ],
+        "19": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 19,
+            "verified_visual_timing": false
+          }
+        ],
+        "20": [
+          {
+            "trigger": "start",
+            "skill_id": 331,
+            "source": "lua_curve",
+            "lua_field": "skill_startevent",
+            "level": 20,
+            "verified_visual_timing": false
+          }
+        ]
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "382": {
+      "skill_id": 382,
+      "level": 20,
+      "skill_name_raw_latin1": "B¨ng T©m TuyÕt Liªn",
+      "lua_script": "ServerBaseline/script/skill/cuiyan.lua",
+      "lua_key": "bingxin_xuelian",
+      "lua_line": 315,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 188,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 188,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\cy\\±ùÐÄÑ©Á«±¬Õ¨.spr",
+        "",
+        "\\spr\\skill\\¶ëáÒ\\mag_bz_bin1_±¬Õ¨Ð§¹û.spr"
+      ],
+      "anim_infos": [
+        "",
+        "22,1,1",
+        "",
+        "7,1,2"
+      ],
+      "precast_spr": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "383": {
+      "skill_id": 383,
+      "level": 20,
+      "skill_name_raw_latin1": "Tinh Kh«ng Ph¸",
+      "lua_script": "ServerBaseline/script/skill/wudu.lua",
+      "lua_key": "xingkong_po",
+      "lua_line": 327,
+      "lua_definition_found": true,
+      "attack_radius_raw": 420,
+      "radius_lua_curve": {},
+      "child_skill_id": 204,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 204,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\ÌÆÃÅ\\bz_du3_±¬Õ¨.spr",
+        "\\spr\\skill\\ÌÆÃÅ\\bz_du3_±¬Õ¨.spr",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "16,1,1",
+        "16,1,1",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\Îå¶¾½Ì\\wdu_13_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "387": {
+      "skill_id": 387,
+      "level": 20,
+      "skill_name_raw_latin1": "B×nh §Þa H¸m L«i",
+      "lua_script": "ServerBaseline/script/skill/kunlun.lua",
+      "lua_key": "pingdi_hanlei",
+      "lua_line": 282,
+      "lua_definition_found": true,
+      "attack_radius_raw": 400,
+      "radius_lua_curve": {},
+      "child_skill_id": 193,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 193,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\tm\\À×»÷Êõ.spr",
+        "",
+        "\\spr\\skill\\À¥ÂØ\\Bz_dian3_±¬Õ¨.spr"
+      ],
+      "anim_infos": [
+        "",
+        "27,1,1",
+        "",
+        "8,1,1"
+      ],
+      "precast_spr": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    },
+    "389": {
+      "skill_id": 389,
+      "level": 20,
+      "skill_name_raw_latin1": "Long ChiÕn ¦ D·",
+      "lua_script": "ServerBaseline/script/skill/gaibang.lua",
+      "lua_key": "longzhan_yuye",
+      "lua_line": 245,
+      "lua_definition_found": true,
+      "attack_radius_raw": 570,
+      "radius_lua_curve": {},
+      "child_skill_id": 195,
+      "child_skill_num_table": 1,
+      "missile_count_lua_level": 1,
+      "missile_id": 195,
+      "move_kind": 0,
+      "follow_kind": 0,
+      "anim_paths": [
+        "",
+        "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr",
+        "",
+        ""
+      ],
+      "anim_infos": [
+        "",
+        "6,1,1",
+        "",
+        ""
+      ],
+      "precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_tr_16_Ê©Ä§·¨.spr",
+      "fly_event_time_raw": 0,
+      "events": [],
+      "event_evidence": {
+        "skill_startevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_flyevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_collideevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        },
+        "skill_vanishedevent": {
+          "bound": false,
+          "curve": {},
+          "effective_flag": 0,
+          "effective_skill_id": 0,
+          "evidence": "skills_txt"
+        }
+      },
+      "passive_synergies_not_spawn": [],
+      "is_selected_combat_skill": false,
+      "sect": "",
+      "event_levels": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "10": [],
+        "11": [],
+        "12": [],
+        "13": [],
+        "14": [],
+        "15": [],
+        "16": [],
+        "17": [],
+        "18": [],
+        "19": [],
+        "20": []
+      },
+      "missile_num_levels": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "fly_event_ticks_levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      }
+    }
+  }
+}

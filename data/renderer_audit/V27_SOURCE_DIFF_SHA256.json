@@ -1,0 +1,33 @@
+{
+  "version": "V27",
+  "baseline": "JXNHALAM_GODOT_V26_SPR_RENDERER_AUDIT_FULL.zip",
+  "baseline_sha256": "80d5a08ca2bf5ab382abc722ec35c99c2e73c610a83033139db2af17f2dc58a9",
+  "changed_files": {
+    "Godot_Project/project.godot": "1a0f768090a4e8d01fe5a5d9644b48a927928b5dda0a42b412e2722af3e8a8a3",
+    "Godot_Project/scripts/Main.gd": "3e604107bff74a0d63c662490d158b5de6e5680b9df86f3aee11bd783c5152a9",
+    "Godot_Project/scripts/SPRActionAudit.gd": "584c8421c09948d23a8b8c5b06311b35e216fc2a058eaffbe4efa0fc17a281a3"
+  },
+  "added_files": {
+    "Godot_Project/V27_HUONG_DAN_TRICH_AT03_VI.txt": "927a9611f8967248fba2d22b6c0683e2b81b8df1c2157728255f7c34e2e9fc56",
+    "Godot_Project/data/renderer_audit/V27_MELEEWCUT_RENDER_ORDER_RAW.json": "d52bdd240463d07e56dd62fc4cc504c166b5591ced307c6d05f9ffa196d9e100",
+    "Godot_Project/scripts/V27AT03Extractor.gd": "201c536386482994a7c906ed19b50d1dff724c39c1dd5064894e0d861de90d29",
+    "Godot_Project/tools/verify_v27.py": "5b8d2d69df91b330be242dcf2bdd4af68f95174221d677d93885a3fc4b928e9d"
+  },
+  "protected_unchanged_sha256": {
+    "scripts/V22MainCombat.gd": "363be5f2584fdb6c26415317908f4463d4b9c41afabf95393da141c046a8991b",
+    "scripts/V22HitProbe.gd": "14e6ea75a1c15c60298d68e7db9793666574a72669a7cf4f40761da02111d7db",
+    "scripts/CTC9XTimeline.gd": "6190a15d96655d3348b96dbc91144b04bae83d54e3024256b00ea5556502d9e0",
+    "scripts/Player.gd": "ceb5cd7ef8d0ed148f6e2a8a2e6466922d11a4d6af8df3ab87b150e78761618f",
+    "scripts/CTC9XCombatEffect.gd": "54770b49f809c636c5158a1b31ecb2ce635aa12562776bf87149e4195e2a8dc6",
+    "scripts/Blade322Afterimages.gd": "cbbbf853387c3c537ae82d68ec7bd9968835dfc6ce7123a7940ad392622dcb17",
+    "scripts/JXVirtualFS.gd": "affd163e683f9cef7eb4f5adf9729e92327586fceb92bc98be6791e0109caf7e",
+    "scripts/JXSPRCodec.gd": "0715de545dde702ecdb72aff93fcea94aeefa943aa3be078d610d464d071a241",
+    "data/renderer_audit/blade_004_action_profiles.json": "ff4ed560d2a603380648a4f7c4e51700217ab9232c1aaf531a5523155e6f1457",
+    "scenes/spr_renderer_audit.tscn": "6979cc16072617a4920eccd71adeff3875c69a4fdf9ce863cbf951d9f7d19726",
+    "data/pak/known_hashes.json": "27887c1c3740936163811ddd60339a679dcebb9c9c5fbea9aa2fae73e5963f8c"
+  },
+  "client_original_spr_found": false,
+  "godot_runtime_tested": false,
+  "source_fixture_hash_lookup_tested": true,
+  "notes": "No AT03 original pixel assets bundled. User selects their real client at O > T; only validated SPR are written to audit asset folder. Combat unchanged."
+}

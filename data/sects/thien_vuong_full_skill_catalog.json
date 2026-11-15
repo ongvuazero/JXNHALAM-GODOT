@@ -1,0 +1,229 @@
+{
+  "source": "supplied settings/skills.txt and missles.txt; prepared manifest, not all skills playable",
+  "skills": [
+    {
+      "id": 23,
+      "name": "Thiên Vương  Thương pháp",
+      "branch": "THUONG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 30,
+      "name": "Hồi Phong Lạc Nhạn",
+      "branch": "THUONG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "219",
+      "missile_ids": "63"
+    },
+    {
+      "id": 35,
+      "name": "Dương Quan Tam Điệp",
+      "branch": "THUONG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "221",
+      "missile_ids": "63"
+    },
+    {
+      "id": 40,
+      "name": "Đoạn Hồn Thích",
+      "branch": "THUONG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "224",
+      "missile_ids": "284"
+    },
+    {
+      "id": 41,
+      "name": "Huyết Chiến Bát Phương",
+      "branch": "THUONG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "225",
+      "missile_ids": "63"
+    },
+    {
+      "id": 323,
+      "name": "Truy Tinh Trục Nguyệt",
+      "branch": "THUONG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "327",
+      "missile_ids": "139"
+    },
+    {
+      "id": 1060,
+      "name": "Bá Vương Tạm Kim",
+      "branch": "THUONG",
+      "asset_status": "demo_vfx",
+      "child_skill_id": "1088",
+      "missile_ids": "350"
+    },
+    {
+      "id": 24,
+      "name": "Thiên Vương  Đao pháp",
+      "branch": "DAO",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 34,
+      "name": "Kinh Lôi Trảm",
+      "branch": "DAO",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "404",
+      "missile_ids": "63"
+    },
+    {
+      "id": 37,
+      "name": "Bát Phong Trảm",
+      "branch": "DAO",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "222",
+      "missile_ids": "63"
+    },
+    {
+      "id": 32,
+      "name": "Vô Tâm Trảm",
+      "branch": "DAO",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "220",
+      "missile_ids": "63"
+    },
+    {
+      "id": 322,
+      "name": "Phá Thiên Trảm",
+      "branch": "DAO",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "326",
+      "missile_ids": "138"
+    },
+    {
+      "id": 1058,
+      "name": "Hào Hùng Trảm",
+      "branch": "DAO",
+      "asset_status": "demo_vfx",
+      "child_skill_id": "1084",
+      "missile_ids": "320,330,348"
+    },
+    {
+      "id": 26,
+      "name": "Thiên Vương  Chùy Pháp",
+      "branch": "CHUY",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 29,
+      "name": "Trảm Long quyết",
+      "branch": "CHUY",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "405",
+      "missile_ids": "63"
+    },
+    {
+      "id": 31,
+      "name": "Hàng Vân Quyết",
+      "branch": "CHUY",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "406",
+      "missile_ids": "63"
+    },
+    {
+      "id": 324,
+      "name": "Thừa Long Quyết",
+      "branch": "CHUY",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "407",
+      "missile_ids": "140"
+    },
+    {
+      "id": 325,
+      "name": "Truy Phong Quyết",
+      "branch": "CHUY",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "408",
+      "missile_ids": "141"
+    },
+    {
+      "id": 1059,
+      "name": "Tung Hoành Bát Hoang",
+      "branch": "CHUY",
+      "asset_status": "demo_vfx",
+      "child_skill_id": "1087",
+      "missile_ids": "349"
+    },
+    {
+      "id": 33,
+      "name": "Tĩnh Tâm Quyết",
+      "branch": "CHUNG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 36,
+      "name": "Thiên Vương Chiến ý",
+      "branch": "CHUNG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 42,
+      "name": "Kim Chung Tráo",
+      "branch": "CHUNG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 708,
+      "name": "Đảo Hư Thiên",
+      "branch": "CHUNG",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 25,
+      "name": "Thánh Vương Đao pháp (##)",
+      "branch": "DANH_MUC_DU_PHONG_KHONG_CHOT",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 27,
+      "name": "Thiên Vương  Phủ pháp (##)",
+      "branch": "DANH_MUC_DU_PHONG_KHONG_CHOT",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 28,
+      "name": "Thánh Vương Phủ pháp (##)",
+      "branch": "DANH_MUC_DU_PHONG_KHONG_CHOT",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    },
+    {
+      "id": 38,
+      "name": "Bàn Cổ Cửu Thức (##)",
+      "branch": "DANH_MUC_DU_PHONG_KHONG_CHOT",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "223",
+      "missile_ids": "63"
+    },
+    {
+      "id": 39,
+      "name": "Triêm Y Thập Bát Điệt (##)",
+      "branch": "DANH_MUC_DU_PHONG_KHONG_CHOT",
+      "asset_status": "not_in_this_asset_pack",
+      "child_skill_id": "0",
+      "missile_ids": ""
+    }
+  ]
+}

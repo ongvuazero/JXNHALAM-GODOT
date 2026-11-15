@@ -1,0 +1,50 @@
+[
+  {
+    "skill_id": 322,
+    "child_skill_id": 326,
+    "missile_id": 138,
+    "name": "Phá Thiên Trảm",
+    "weapon": "blade",
+    "icon_spr_name_bytes_latin1": "³ËÁú¾ö.spr",
+    "ReqLevel": "80",
+    "EqtLimit": "1",
+    "IsMelee": "1",
+    "AttackRadius": "90",
+    "lua_table": "potian_zhan",
+    "skill_cost_v_level1": 15,
+    "AnimFile2": "",
+    "AnimFile4": "\\spr\\skill\\tw\\×··ç¾ö.spr"
+  },
+  {
+    "skill_id": 323,
+    "child_skill_id": 327,
+    "missile_id": 139,
+    "name": "Truy Tinh Trục Nguyệt",
+    "weapon": "spear",
+    "icon_spr_name_bytes_latin1": "×·ÐÇÖðÔÂ.spr",
+    "ReqLevel": "80",
+    "EqtLimit": "3",
+    "IsMelee": "1",
+    "AttackRadius": "90",
+    "lua_table": "zhuixing_zhuyue",
+    "skill_cost_v_level1": 10,
+    "AnimFile2": "\\spr\\skill\\²¹³ä\\mag_npc_¶ÌÃ«.spr",
+    "AnimFile4": "\\spr\\skill\\sl\\½ðÁúÌ½×¦.spr"
+  },
+  {
+    "skill_id": 325,
+    "child_skill_id": 408,
+    "missile_id": 141,
+    "name": "Truy Phong Quyết",
+    "weapon": "hammer",
+    "icon_spr_name_bytes_latin1": "ÆÆÌìÕ¶.spr",
+    "ReqLevel": "80",
+    "EqtLimit": "4",
+    "IsMelee": "1",
+    "AttackRadius": "72",
+    "lua_table": "zhuifeng_jue",
+    "skill_cost_v_level1": 10,
+    "AnimFile2": "\\spr\\skill\\ÉÙÁÖ\\bz_bo1_½ð²¨.spr",
+    "AnimFile4": "\\spr\\skill\\²¹³ä\\BZ_é¢1.spr"
+  }
+]

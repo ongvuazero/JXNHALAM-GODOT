@@ -1,0 +1,21 @@
+{
+  "note": "V44 geometry in QA pixels ONLY; 0.55 preserves old 400->220 visual range. Compare 4+ points of JX1 before calling this native.",
+  "attack_radius_px_per_jx_unit": 0.55,
+  "attack_radius_px_per_jx_unit_by_skill": {},
+  "sprite_scale_default": 1.0,
+  "sprite_scale_by_skill": {
+    "357": {
+      "fly": 1.0,
+      "hit": 1.0
+    },
+    "359": {
+      "fly": 1.0,
+      "hit": 1.0
+    }
+  },
+  "visible_sprite_limit_by_skill": {},
+  "note_sprite_limit": "Only generic renderer defaults to ONE visual instance. CB homing has separately observed max3. NEVER use ChildSkillNum as simultaneous sprite count.",
+  "flight_speed_px_s_by_skill": {},
+  "hit_radius_px_by_skill": {},
+  "v44_1_note": "Motion QA only: 0=stationary, 1=straight, 5=dedicated follow, others unsupported. HIT requires swept or stationary contact. No native JX speed/physics claim."
+}

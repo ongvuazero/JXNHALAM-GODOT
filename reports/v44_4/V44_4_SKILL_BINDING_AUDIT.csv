@@ -1,0 +1,25 @@
+﻿school,skill_id,skill_name,child_skill_id,missile_id,move_kind,missile_speed_raw,declared_missiles,status,note,lua_level20_linked
+cai_bang,357,Phi Long Tại Thiên,166,166,5,30,166,SOURCE_MAPPING_MATCHES,,389
+cai_bang,359,Thiên Hạ Vô Cẩu,168,168,5,24,168,SOURCE_MAPPING_MATCHES,,
+con_lon,372,Ngạo Tuyết Tiêu Phong,178,178,1,31,178,SOURCE_MAPPING_MATCHES,,373
+con_lon,375,Lôi Động Cửu Thiên,181,181,0,1,181,SOURCE_MAPPING_MATCHES,,387
+duong_mon,339,Nhiếp Hồn Nguyệt Ảnh,149,149,1,32,149,SOURCE_MAPPING_MATCHES,,340
+duong_mon,342,Cửu Cung Phi Tinh,152,152,100,32,152,SOURCE_MAPPING_MATCHES,,
+duong_mon,302,Bạo Vũ Lê Hoa,96,96,0,0,96,SOURCE_MAPPING_MATCHES,,301
+duong_mon,351,Loạn Hoàn Kích,161,161,0,0,161,SOURCE_MAPPING_MATCHES,,352
+nga_mi,328,Tam Nga Tế Nguyệt,142,142,1,32,142,SOURCE_MAPPING_MATCHES,,329
+nga_mi,380,Phong Sương Toái Ảnh,186,186,0,0,186,SOURCE_MAPPING_MATCHES,,331
+ngu_doc,353,Âm Phong Thực Cốt,163,163,0,0,163,SOURCE_MAPPING_MATCHES,,354
+ngu_doc,355,Huyền Âm Trảm,165,165,1,40,165,SOURCE_MAPPING_MATCHES,,383
+thien_nhan,361,Vân Long Kích,169,169,1,32,169,SOURCE_MAPPING_MATCHES,,
+thien_nhan,362,Thiên Ngoại Lưu Tinh,171,171,0,0,171,SOURCE_MAPPING_MATCHES,,363
+thien_vuong,322,Phá Thiên Trảm,,,,,,TV_NATIVE_COMBAT_EXCLUDED,Không sửa đường combat Thiên Vương,
+thien_vuong,323,Truy Tinh Trục Nguyệt,,,,,,TV_NATIVE_COMBAT_EXCLUDED,Không sửa đường combat Thiên Vương,
+thien_vuong,325,Truy Phong Quyết,,,,,,TV_NATIVE_COMBAT_EXCLUDED,Không sửa đường combat Thiên Vương,
+thieu_lam,318,Đạt Ma Độ Giang,317,317,4,10,317,SOURCE_MAPPING_MATCHES,,
+thieu_lam,319,Hoành Tảo Thiên Quân,135,135,0,0,135,SOURCE_MAPPING_MATCHES,,
+thieu_lam,321,Vô Tướng Trảm,136,136,1,40,136,SOURCE_MAPPING_MATCHES,,
+thuy_yen,336,Băng Tung Vô Ảnh,146,146,1,32,146,SOURCE_MAPPING_MATCHES,,382
+thuy_yen,337,Băng Tâm Tiên Tử,147,147,1,30,147,SOURCE_MAPPING_MATCHES,,338
+vo_dang,365,Thiên Địa Vô Cực,173,173,0,0,173,SOURCE_MAPPING_MATCHES,,
+vo_dang,368,Nhân Kiếm Hợp Nhất,175,175,1,32,175,SOURCE_MAPPING_MATCHES,,"371,162"

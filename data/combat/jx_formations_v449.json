@@ -1,0 +1,114 @@
+{
+  "321": {
+    "skill_id": 321,
+    "form": 1,
+    "move_kind": 1,
+    "missile_id": 136,
+    "count": 2,
+    "param1": 0,
+    "param2": 0,
+    "generate_style": 2,
+    "generate_step_ticks": 9,
+    "wait_ticks": 5,
+    "life_ticks": 16,
+    "speed_raw": 40,
+    "qa_start_offset_px_per_raw_unit": 0.55,
+    "qa_speed_px_per_raw_speed_unit": 10.0,
+    "verified": [
+      "form_id",
+      "child_count",
+      "line_spacing_param1",
+      "release_tick_formula"
+    ],
+    "unverified": [
+      "world_units_to_pixels",
+      "visible_frame_rate",
+      "collision_radius",
+      "actual_on_hit_behavior"
+    ]
+  },
+  "336": {
+    "skill_id": 336,
+    "form": 2,
+    "move_kind": 1,
+    "missile_id": 146,
+    "count": 5,
+    "param1": 2,
+    "param2": 24,
+    "generate_style": 0,
+    "generate_step_ticks": 1,
+    "wait_ticks": 6,
+    "life_ticks": 24,
+    "speed_raw": 32,
+    "qa_start_offset_px_per_raw_unit": 0.55,
+    "qa_speed_px_per_raw_speed_unit": 10.0,
+    "verified": [
+      "form_id",
+      "child_count",
+      "angle_spacing_64_dir",
+      "release_tick_formula"
+    ],
+    "unverified": [
+      "world_units_to_pixels",
+      "visible_frame_rate",
+      "collision_radius",
+      "actual_on_hit_behavior"
+    ]
+  },
+  "355": {
+    "skill_id": 355,
+    "form": 1,
+    "move_kind": 1,
+    "missile_id": 165,
+    "count": 2,
+    "param1": 0,
+    "param2": 0,
+    "generate_style": 2,
+    "generate_step_ticks": 6,
+    "wait_ticks": 0,
+    "life_ticks": 16,
+    "speed_raw": 40,
+    "qa_start_offset_px_per_raw_unit": 0.55,
+    "qa_speed_px_per_raw_speed_unit": 10.0,
+    "verified": [
+      "form_id",
+      "child_count",
+      "line_spacing_param1",
+      "release_tick_formula"
+    ],
+    "unverified": [
+      "world_units_to_pixels",
+      "visible_frame_rate",
+      "collision_radius",
+      "actual_on_hit_behavior"
+    ]
+  },
+  "368": {
+    "skill_id": 368,
+    "form": 1,
+    "move_kind": 1,
+    "missile_id": 175,
+    "count": 3,
+    "param1": 0,
+    "param2": 0,
+    "generate_style": 2,
+    "generate_step_ticks": 6,
+    "wait_ticks": 0,
+    "life_ticks": 6,
+    "speed_raw": 32,
+    "qa_start_offset_px_per_raw_unit": 0.55,
+    "qa_speed_px_per_raw_speed_unit": 10.0,
+    "verified": [
+      "form_id",
+      "child_count",
+      "line_spacing_param1",
+      "release_tick_formula"
+    ],
+    "unverified": [
+      "world_units_to_pixels",
+      "visible_frame_rate",
+      "collision_radius",
+      "actual_on_hit_behavior"
+    ]
+  }
+}

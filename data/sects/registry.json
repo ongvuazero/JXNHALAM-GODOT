@@ -1,0 +1,66 @@
+{
+  "total_slots": 10,
+  "default_sect": "thien_vuong",
+  "sects": [
+    {
+      "id": "thieu_lam",
+      "name": "Thiếu Lâm",
+      "status": "playable_prototype",
+      "config": "res://data/sects/thieu_lam.json"
+    },
+    {
+      "id": "thien_vuong",
+      "name": "Thiên Vương",
+      "status": "playable_prototype",
+      "config": "res://data/sects/thien_vuong.json"
+    },
+    {
+      "id": "duong_mon",
+      "name": "Đường Môn",
+      "status": "playable_prototype",
+      "config": "res://data/sects/duong_mon.json"
+    },
+    {
+      "id": "ngu_doc",
+      "name": "Ngũ Độc",
+      "status": "playable_prototype",
+      "config": "res://data/sects/ngu_doc.json"
+    },
+    {
+      "id": "nga_mi",
+      "name": "Nga Mi",
+      "status": "playable_prototype",
+      "config": "res://data/sects/nga_mi.json"
+    },
+    {
+      "id": "thuy_yen",
+      "name": "Thúy Yên",
+      "status": "playable_prototype",
+      "config": "res://data/sects/thuy_yen.json"
+    },
+    {
+      "id": "cai_bang",
+      "name": "Cái Bang",
+      "status": "playable_prototype",
+      "config": "res://data/sects/cai_bang.json"
+    },
+    {
+      "id": "thien_nhan",
+      "name": "Thiên Nhẫn",
+      "status": "playable_prototype",
+      "config": "res://data/sects/thien_nhan.json"
+    },
+    {
+      "id": "vo_dang",
+      "name": "Võ Đang",
+      "status": "playable_prototype",
+      "config": "res://data/sects/vo_dang.json"
+    },
+    {
+      "id": "con_lon",
+      "name": "Côn Lôn",
+      "status": "playable_prototype",
+      "config": "res://data/sects/con_lon.json"
+    }
+  ]
+}

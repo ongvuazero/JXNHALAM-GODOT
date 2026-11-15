@@ -1,0 +1,21 @@
+{
+  "unity_enum_source": "vltkunity-main/server/Photon.ShareLibrary/Constant/eMissleMoveKind.cs",
+  "missile_forms_count": 8,
+  "melee_form_12": "Melee_ManyAttack (8=blur, 9=jump, 10=jump_and_attack, 11=run_and_attack, 12=many_attack)",
+  "skill_318": {
+    "skill_style": 1,
+    "missles_form": 12,
+    "child_skill_id": 317,
+    "move_kind": 4,
+    "handling": "one HELIX QA visual remains, native melee multicasts NOT implemented"
+  },
+  "skill_342": {
+    "skill_style": 0,
+    "missles_form": 2,
+    "child_skill_id": 152,
+    "move_kind": 100,
+    "child_skill_num": 5,
+    "handling": "individual contact visual and Lua collide event per missile"
+  },
+  "runtime_godot_test": "NOT RUN"
+}

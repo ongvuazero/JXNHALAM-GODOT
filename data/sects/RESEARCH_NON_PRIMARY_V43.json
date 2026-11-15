@@ -1,0 +1,62 @@
+{
+  "notice": "Non-primary skill IDs from earlier V43 test; retained here ONLY as reference, not a third combat branch. Do not delete from original settings/skills.txt.",
+  "sects": {
+    "thieu_lam": [],
+    "duong_mon": [
+      {
+        "skill_id": 301,
+        "name": "Truy Tinh Trục Điện"
+      }
+    ],
+    "ngu_doc": [
+      {
+        "skill_id": 354,
+        "name": "Thiên Cương Độc Thủ"
+      }
+    ],
+    "nga_mi": [
+      {
+        "skill_id": 329,
+        "name": "Ngọc Tuyền Tẩy Trần"
+      },
+      {
+        "skill_id": 331,
+        "name": "Kim Đỉnh Phật Quang"
+      }
+    ],
+    "thuy_yen": [
+      {
+        "skill_id": 338,
+        "name": "Phong Tuyết Băng Thiên"
+      }
+    ],
+    "cai_bang": [
+      {
+        "skill_id": 389,
+        "name": "Long Chiến Ư Dã"
+      }
+    ],
+    "thien_nhan": [
+      {
+        "skill_id": 363,
+        "name": "Nghiệp Hỏa Phần Thành"
+      }
+    ],
+    "vo_dang": [
+      {
+        "skill_id": 366,
+        "name": "Thái Cực Vô Ý"
+      },
+      {
+        "skill_id": 367,
+        "name": "Kiếm Khí Tung Hoành"
+      }
+    ],
+    "con_lon": [
+      {
+        "skill_id": 373,
+        "name": "Khiếu Phong Tam Liên Kích"
+      }
+    ]
+  }
+}

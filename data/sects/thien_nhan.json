@@ -1,0 +1,130 @@
+{
+  "id": "thien_nhan",
+  "name": "Thiên Nhẫn",
+  "status": "playable_prototype",
+  "visual_manifest": "res://assets/character/manifest.json",
+  "visual_disclaimer": "TEMPORARY Thien Vuong body sprites for engineering tests; NOT authentic school art",
+  "combat_standard": "CTC main combat 90 route buttons only; other source skills kept in settings; VFX/HP remain QA until original SPR verified",
+  "weapons": [
+    {
+      "id": "branch_1",
+      "visual_id": "blade",
+      "label": "Vân Long Kích",
+      "icon": "",
+      "skills": [
+        {
+          "id": "jx_361",
+          "legacy_skill_id": 361,
+          "name": "Vân Long Kích",
+          "preview_sect": "thien_nhan",
+          "source_script": "script/skill/tianren.lua",
+          "source_child_skill_id": 169,
+          "source_child_skill_num": 1,
+          "source_missles_form": 1,
+          "source_msls_generate": 0,
+          "source_wait_time": 0,
+          "missile_ids": [
+            169
+          ],
+          "missile_move_kind": 1,
+          "missile_speed_raw": 32,
+          "original_precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_tr_09_ÍµÌì»»ÈÕ.spr",
+          "original_missile_spr": [
+            "",
+            "\\spr\\skill\\À¥ÂØ\\kl_02_¼²µç·¨a.spr",
+            "",
+            "\\spr\\skill\\tr\\ÔÆÁú»÷.spr"
+          ],
+          "original_anim_info": {
+            "cast": "",
+            "fly": "160,16,1",
+            "travel_end": "",
+            "hit": "6,1,1"
+          },
+          "attack_radius_raw": 60,
+          "attack_radius": 88,
+          "hit_radius": 60,
+          "character_cast_ms": 680,
+          "cast_ms": 390,
+          "release_ms": 390,
+          "recovery_ms": 120,
+          "cooldown_ms": 780,
+          "target_enemy": true,
+          "target_self": false,
+          "damage": 10,
+          "damage_is_debug_only": true,
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "",
+            "end": ""
+          },
+          "has_vfx": true,
+          "visual_status": "external_source_spr_or_diagnostic_only",
+          "combat_status": "demo_no_native_damage"
+        }
+      ]
+    },
+    {
+      "id": "branch_2",
+      "visual_id": "spear",
+      "label": "Thiên Ngoại Lưu Tinh",
+      "icon": "",
+      "skills": [
+        {
+          "id": "jx_362",
+          "legacy_skill_id": 362,
+          "name": "Thiên Ngoại Lưu Tinh",
+          "preview_sect": "thien_nhan",
+          "source_script": "script/skill/tianren.lua",
+          "source_child_skill_id": 171,
+          "source_child_skill_num": 1,
+          "source_missles_form": 6,
+          "source_msls_generate": 0,
+          "source_wait_time": 0,
+          "missile_ids": [
+            171
+          ],
+          "missile_move_kind": 0,
+          "missile_speed_raw": 0,
+          "original_precast_spr": "\\spr\\skill\\ÌìÈÌ\\mag_tr_16_Ê©Ä§·¨.spr",
+          "original_missile_spr": [
+            "",
+            "\\spr\\skill\\tr\\zd_Òµ»ð·Ù³Ç.spr",
+            "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr",
+            "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr"
+          ],
+          "original_anim_info": {
+            "cast": "",
+            "fly": "18,1,1",
+            "travel_end": "6,1,1",
+            "hit": "6,1,1"
+          },
+          "attack_radius_raw": 420,
+          "attack_radius": 220,
+          "hit_radius": 60,
+          "character_cast_ms": 680,
+          "cast_ms": 390,
+          "release_ms": 390,
+          "recovery_ms": 120,
+          "cooldown_ms": 780,
+          "target_enemy": true,
+          "target_self": false,
+          "damage": 10,
+          "damage_is_debug_only": true,
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "",
+            "end": ""
+          },
+          "has_vfx": true,
+          "visual_status": "external_source_spr_or_diagnostic_only",
+          "combat_status": "demo_no_native_damage"
+        }
+      ]
+    }
+  ],
+  "branch_count": 2,
+  "branch_notes": "Branch count is NOT total usable JX skill count. Buff/debuff/aura must live in own bars, not forced to an extra attack branch."
+}

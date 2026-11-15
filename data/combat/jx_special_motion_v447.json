@@ -1,0 +1,42 @@
+{
+  "318": {
+    "skill_id": 318,
+    "missile_id": 317,
+    "move_kind": 4,
+    "missile_speed_raw": 10,
+    "missile_lifetime_ticks": 3000,
+    "missile_param1": 1,
+    "missile_param2": 0,
+    "missles_form": 12,
+    "child_skill_num": 2,
+    "skill_param1": 10,
+    "skill_param2": 0,
+    "generate_style": 1,
+    "generate_step_ticks": 5,
+    "wait_ticks": 0,
+    "qa_unit_scale": 0.55,
+    "qa_helix_seconds": 1.5,
+    "source": "ServerBaseline/settings/skills.txt + ServerBaseline/settings/missles.txt",
+    "confirmed_from_unity": "vltkunity-main/client/Assets/Scripts/Resource/settings/skill/"
+  },
+  "342": {
+    "skill_id": 342,
+    "missile_id": 152,
+    "move_kind": 100,
+    "missile_speed_raw": 32,
+    "missile_lifetime_ticks": 32,
+    "missile_param1": 0,
+    "missile_param2": 0,
+    "missles_form": 2,
+    "child_skill_num": 5,
+    "skill_param1": 1,
+    "skill_param2": 0,
+    "generate_style": 5,
+    "generate_step_ticks": 2,
+    "wait_ticks": 2,
+    "qa_unit_scale": 0.55,
+    "qa_helix_seconds": 1.5,
+    "source": "ServerBaseline/settings/skills.txt + ServerBaseline/settings/missles.txt",
+    "confirmed_from_unity": "vltkunity-main/client/Assets/Scripts/Resource/settings/skill/"
+  }
+}

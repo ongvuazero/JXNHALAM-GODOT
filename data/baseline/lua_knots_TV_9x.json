@@ -1,0 +1,384 @@
+{
+  "322": {
+    "lua_table": "potian_zhan",
+    "properties": {
+      "physicsenhance_p": {
+        "points_in_source_order": [
+          [
+            1,
+            35
+          ],
+          [
+            15,
+            150
+          ],
+          [
+            20,
+            338
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,35},{15,150},{20,338}}}"
+      },
+      "seriesdamage_p": {
+        "points_in_source_order": [
+          [
+            1,
+            20
+          ],
+          [
+            15,
+            20
+          ],
+          [
+            20,
+            60
+          ],
+          [
+            21,
+            62
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,20},{15,20},{20,60},{21,62}}}"
+      },
+      "deadlystrike_p": {
+        "points_in_source_order": [
+          [
+            1,
+            4
+          ],
+          [
+            20,
+            25
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,4},{20,25}}}"
+      },
+      "attackrating_p": {
+        "points_in_source_order": [
+          [
+            1,
+            35
+          ],
+          [
+            20,
+            215
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,35},{20,215}}}"
+      },
+      "missle_speed_v": {
+        "points_in_source_order": [
+          [
+            1,
+            30
+          ],
+          [
+            20,
+            30
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,30},{20,30}}}"
+      },
+      "missle_lifetime_v": {
+        "points_in_source_order": [
+          [
+            1,
+            4
+          ],
+          [
+            20,
+            4
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,4},{20,4}}}"
+      },
+      "skill_attackradius": {
+        "points_in_source_order": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,90},{20,90}}}"
+      },
+      "skill_cost_v": {
+        "points_in_source_order": [
+          [
+            1,
+            15
+          ],
+          [
+            20,
+            30
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,15},{20,30}}}"
+      }
+    },
+    "authoritative_lua_sha256": "eed6b7dcb4e4c5afe1076e9f6ea96c01d4f85fc42d769ef62396b8a587345309"
+  },
+  "323": {
+    "lua_table": "zhuixing_zhuyue",
+    "properties": {
+      "physicsenhance_p": {
+        "points_in_source_order": [
+          [
+            1,
+            50
+          ],
+          [
+            15,
+            200
+          ],
+          [
+            20,
+            381
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,50},{15,200},{20,381}}}"
+      },
+      "seriesdamage_p": {
+        "points_in_source_order": [
+          [
+            1,
+            20
+          ],
+          [
+            15,
+            20
+          ],
+          [
+            20,
+            60
+          ],
+          [
+            21,
+            62
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,20},{15,20},{20,60},{21,62}}}"
+      },
+      "attackrating_p": {
+        "points_in_source_order": [
+          [
+            1,
+            95
+          ],
+          [
+            20,
+            360
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,95},{20,360}}}"
+      },
+      "deadlystrike_p": {
+        "points_in_source_order": [
+          [
+            1,
+            4
+          ],
+          [
+            20,
+            25
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,4},{20,25}}}"
+      },
+      "missle_speed_v": {
+        "points_in_source_order": [
+          [
+            1,
+            30
+          ],
+          [
+            20,
+            30
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,30},{20,30}}}"
+      },
+      "missle_lifetime_v": {
+        "points_in_source_order": [
+          [
+            1,
+            4
+          ],
+          [
+            20,
+            4
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,4},{20,4}}}"
+      },
+      "skill_attackradius": {
+        "points_in_source_order": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,90},{20,90}}}"
+      },
+      "skill_cost_v": {
+        "points_in_source_order": [
+          [
+            1,
+            10
+          ],
+          [
+            20,
+            65
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,10},{20,65}}}"
+      }
+    },
+    "authoritative_lua_sha256": "eed6b7dcb4e4c5afe1076e9f6ea96c01d4f85fc42d769ef62396b8a587345309"
+  },
+  "325": {
+    "lua_table": "zhuifeng_jue",
+    "properties": {
+      "physicsenhance_p": {
+        "points_in_source_order": [
+          [
+            1,
+            25
+          ],
+          [
+            15,
+            140
+          ],
+          [
+            20,
+            380
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,25},{15,140},{20,380}}}"
+      },
+      "seriesdamage_p": {
+        "points_in_source_order": [
+          [
+            1,
+            20
+          ],
+          [
+            15,
+            20
+          ],
+          [
+            20,
+            60
+          ],
+          [
+            21,
+            62
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,20},{15,20},{20,60},{21,62}}}"
+      },
+      "ignoredefense_p": {
+        "points_in_source_order": [
+          [
+            1,
+            12
+          ],
+          [
+            20,
+            90
+          ],
+          [
+            21,
+            94
+          ],
+          [
+            22,
+            98
+          ],
+          [
+            23,
+            99
+          ],
+          [
+            24,
+            99
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,12},{20,90},{21,94},{22,98},{23,99},{24,99}}}"
+      },
+      "deadlystrike_p": {
+        "points_in_source_order": [
+          [
+            1,
+            5
+          ],
+          [
+            20,
+            40
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,5},{20,40}}}"
+      },
+      "missle_speed_v": {
+        "points_in_source_order": [
+          [
+            1,
+            30
+          ],
+          [
+            20,
+            30
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,30},{20,30}}}"
+      },
+      "missle_lifetime_v": {
+        "points_in_source_order": [
+          [
+            1,
+            4
+          ],
+          [
+            20,
+            4
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,4},{20,4}}}"
+      },
+      "skill_attackradius": {
+        "points_in_source_order": [
+          [
+            1,
+            90
+          ],
+          [
+            20,
+            90
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,90},{20,90}}}"
+      },
+      "skill_cost_v": {
+        "points_in_source_order": [
+          [
+            1,
+            10
+          ],
+          [
+            20,
+            30
+          ]
+        ],
+        "raw_fragment_latin1": "{{{1,10},{20,30}}}"
+      }
+    },
+    "authoritative_lua_sha256": "eed6b7dcb4e4c5afe1076e9f6ea96c01d4f85fc42d769ef62396b8a587345309"
+  }
+}

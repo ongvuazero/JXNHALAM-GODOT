@@ -1,0 +1,2364 @@
+{
+  "paths": [
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\½£·¨.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5cbda3b7a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_gf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f67662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\Ç¹·¨.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5cc7b9b7a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_df.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f64662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_qf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f71662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f30312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f30322e737072"
+    },
+    {
+      "field": "AnimFileB4",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\µ¶½£±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cb5b6bda3b1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f31322e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\¹÷°ô±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cb9f7b0f4b1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f31312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f31332e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\sl_02_ÇåÐÄèóÒô.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c736c5f30325fc7e5d0c4e8f3d2f42e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f32312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\sl_03_ÐÐÁú²»Óê.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c736c5f30335fd0d0c1fab2bbd3ea2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f32322e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\sl_05_²»¶¯Ã÷ÍõÖä.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c736c5f30355fb2bbb6afc3f7cdf5d6e42e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f33312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f33322e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\sl_04_»ÛÑÛÖä.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c736c5f30345fbbdbd1dbd6e42e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f34312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\sl_01_Ä¦Ú­ÎÞÁ¿.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c736c5f30315fc4a6daadcedec1bf2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f34322e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\sl_06_Ê¨×Óºð.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c736c5f30365fcaa8d7d3baf02e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f34332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f34322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\mag_spe_bo_À¶.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45c6d61675f7370655f626f5fc0b62e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\bz_bo2_ºì²¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c627a5f626f325fbaecb2a82e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\bz_bo1_½ð²¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c627a5f626f315fbdf0b2a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f34312e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_13_Ê©Ä§·¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f31335fcaa9c4a7b7a82e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_05_·ð¹âÆÕÕÕ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f30355fb7f0b9e2c6d5d5d52e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_bz_bin1_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f627a5f62696e315fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\BZ_é¢.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45c425a5fe9a22e737072"
+    },
+    {
+      "field": "AnimFileB4",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\wd_04_ÐþÒ»ÎÞÏó.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c77645f30345fd0fed2bbcedecff32e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f33332e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\born01.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45c626f726e30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÉÙÁÖ\\sl_01_´ïÄ¦¶É½­.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc9d9c1d65c736c5f30315fb4efc4a6b6c9bdad2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\sl\\½ðÁúÌ½×¦.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c736c5cbdf0c1faccbdd7a62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\´ïÄ¦¶É½­.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb4efc4a6b6c9bdad2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ºáÉ¨Ç§¾ü.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cbae1c9a8c7a7befc2e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\sl\\bz_ºáÉ¨Ç§¾ü.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c736c5c627a5fbae1c9a8c7a7befc2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÎÞÏòÕ¶.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5ccedecff2d5b62e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\sl\\ÎÞÏòÕ¶.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c736c5ccedecff2d5b62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_sl_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f736c5f3132302e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\NPC\\mag_npc_¶ÌÃ«.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c4e50435c6d61675f6e70635fb6ccc3ab2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_sl_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f736c5f30332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\sl\\sl_150_longchenbannuo_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c736c5c736c5f3135305f6c6f6e676368656e62616e6e756f5f632e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\150\\sl\\sl_150_longchenbannuo_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c736c5c736c5f3135305f6c6f6e676368656e62616e6e756f5f642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_sl_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f736c5f30322e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\sl\\sl_150_gunshao_dl.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c736c5c736c5f3135305f67756e7368616f5f646c2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\sl\\sl_150_gunshao_xz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c736c5c736c5f3135305f67756e7368616f5f787a2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_sl_04.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f736c5f30342e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\sl\\sl_150_daoshao_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c736c5c736c5f3135305f64616f7368616f5f7a642e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\sl\\sl_150_daoshao_bz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c736c5c736c5f3135305f64616f7368616f5f627a2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_sl_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f736c5f30312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_qf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f71662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_df.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f64662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\µ¶·¨.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5cb5b6b7a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_cf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f63662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\¹÷·¨.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5cb9f7b7a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\Ë«´¸Ì×Â·.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5ccbabb4b8ccd7c2b72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_62.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f36322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_61.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f36312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f31322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f31312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f31332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f30312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_63.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f36332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f33312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f33322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f34312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_64.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f36342e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f34332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f32322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f34322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\Çá¹¦.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5cc7e1b9a62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f34322e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_16_Ê©Ä§·¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f31365fcaa9c4a7b7a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\³ËÁú¾ö.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb3cbc1fabef62e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\tw\\×··ç¾ö.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c74775cd7b7b7e7bef62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\×·ÐÇÖðÔÂ.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd7b7d0c7d6f0d4c22e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\mag_npc_¶ÌÃ«.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45c6d61675f6e70635fb6ccc3ab2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\×··ç¾ö.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd7b7b7e7bef62e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\BZ_é¢1.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45c425a5fe9a2312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÆÆÌìÕ¶.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc6c6ccecd5b62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tw_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74775f3132302e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tw_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f74775f30332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tw\\sl_150_daotian_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74775c736c5f3135305f64616f7469616e5f7a642e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tw\\tw_150_daotian_bz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74775c74775f3135305f64616f7469616e5f627a2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tw_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f74775f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\tw\\tw_150_zonghengbahuang_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c74775c74775f3135305f7a6f6e6768656e6762616875616e675f632e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tw\\tw_150_chuitian_bz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74775c74775f3135305f636875697469616e5f627a2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tw_04.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f74775f30342e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tw\\tw_150_qiangtian_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74775c74775f3135305f7169616e677469616e5f7a642e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tw\\tw_150_qiangtian_bz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74775c74775f3135305f7169616e677469616e5f627a2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tw\\tw_150_daotian_dl.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74775c74775f3135305f64616f7469616e5f646c2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tw\\sl_150_daotian_zd1.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74775c736c5f3135305f64616f7469616e5f7a64312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tw_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f74775f30312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_aq.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f61712e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\tm_03_Åùö¨µ¯.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c746d5f30335fc5f9f6a8b5af2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo1_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f627a5f68756f315fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f31312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\tm_07_Ð¡Àî·Éµ¶.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c746d5f30375fd0a1c0eeb7c9b5b62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f31332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f31322e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\wdu_13_Ä§·¨Ê©·Å.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c7764755f31335fc4a7b7a8caa9b7c52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f32322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\tm_05_¶àÏò¼ý.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c746d5f30355fb6e0cff2bcfd2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f32312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f33322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\tm_06_ÂþÌì»¨Óê.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c746d5f30365fc2feccecbba8d3ea2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f33312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f33332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f34322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f34332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\tm_Ô¦·Éµ¶.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c746d5fd4a6b7c9b5b62e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\mag_spe_bo_ÂÌ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45c6d61675f7370655f626f5fc2cc2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_Ð¡Àî·Éµ¶.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5fd0a1c0eeb7c9b5b62e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\·É±ê±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cb7c9b1eab1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_tm_253_yudu-shigu.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f746d5f3235335f797564752d73686967752e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\±©ÓêÀæ»¨.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb1a9d3eac0e6bba82e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\Ô¶³Ì¹¥»÷.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cd4b6b3ccb9a5bbf72e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\bz_du1_±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c627a5f6475315fb1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\¶¾´Ì¹Ç.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb6beb4ccb9c72e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\tm_08_ÏÝ¾®.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c746d5f30385fcfddbeae2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f34312e737072"
+    },
+    {
+      "field": "AnimFileB3",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\bz_du3_±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c627a5f6475335fb1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f31322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Òøµ¶ÉäÔÂ.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd2f8b5b6c9e4d4c22e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\Òøµ¶ÉäÔÂ_02.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5cd2f8b5b6c9e4d4c25f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\bz_Òøµ¶ÉäÔÂ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c627a5fd2f8b5b6c9e4d4c22e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\É¢»¨ïÚ.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc9a2bba8efda2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\ÈÌÕßïÚ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5cc8ccd5dfefda2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\¾Å¹¬·ÉÐÇ.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cbec5b9acb7c9d0c72e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\¾Å¹¬·ÉÐÇ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5cbec5b9acb7c9d0c72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\´©ÐÄ´Ì.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb4a9d0c4b4cc2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\xj_´©ÐÄ´Ì.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c786a5fb4a9d0c4b4cc2e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\´©ÐÄ´Ì.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5cb4a9d0c4b4cc2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\º®±ù´Ì.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cbaaeb1f9b4cc2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\xj_º®±ù´Ì.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c786a5fbaaeb1f9b4cc2e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\bz_º®±ù´Ì.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c627a5fbaaeb1f9b4cc2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\µØÑæ»ð.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb5d8d1e6bbf02e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\xj_µØÑæ»ð.01.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c786a5fb5d8d1e6bbf02e30312e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\µØÑæ»ð.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5cb5d8d1e6bbf02e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\À×»÷Êõ.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc0d7bbf7caf52e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\xj_À×»÷Êõ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c786a5fc0d7bbf7caf52e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\À×»÷Êõ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5cc0d7bbf7caf52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÎåÐÐÏÝÚå.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5ccee5d0d0cfdddae52e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\xj_×ÏÉ«ÏÝÚå.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c786a5fd7cfc9abcfdddae52e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\bz_×ÏÉ«ÏÝÚå.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5c627a5fd7cfc9abcfdddae52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tm_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f746d5f3132302e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\tm\\ÃÔÓ°×Ý.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c746d5cc3d4d3b0d7dd2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tm_06.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f746d5f30362e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tm\\tm_150_daotang_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c746d5c746d5f3135305f64616f74616e675f7a642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tm_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f746d5f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\tm\\tm_150_sanhuatiannv_c_b.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c746d5c746d5f3135305f73616e6875617469616e6e765f635f622e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tm_05.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f746d5f30352e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tm\\tm_150_biaotang_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c746d5c746d5f3135305f6269616f74616e675f7a642e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\150\\tm\\tm_150_qiankunyizhi_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c746d5c746d5f3135305f7169616e6b756e79697a68695f642e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tm\\tm_150_daotang_bz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c746d5c746d5f3135305f64616f74616e675f627a2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\tm\\tm_150_sanhuatiannv_c_a.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c746d5c746d5f3135305f73616e6875617469616e6e765f635f612e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tm_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f746d5f30332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tm_04.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f746d5f30342e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\companion\\zhenyupotianjin.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c636f6d70616e696f6e5c7a68656e7975706f7469616e6a696e2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\bz_du2_±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c627a5f6475325fb1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\companion\\miqipiaozong.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c636f6d70616e696f6e5c6d6971697069616f7a6f6e672e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tm_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f746d5f30312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_df.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f64662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_zf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f7a662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\wu\\ÐþÚ¤ÎüÐÇ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c77755cd0fedaa4cefcd0c72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Ñªµ¶¶¾É±.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd1aab5b6b6bec9b12e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\wdu_02_´óÊÖÓ¡.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c7764755f30325fb4f3cad6d3a12e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f31322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f31332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f32312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\wdu_03_÷¼÷ÃÕ¨µ¯.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c7764755f30335ff7bcf7c3d5a8b5af2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f32322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f33312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\wdu_04_¾ÅÒõ°×¹Ç×¥.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c7764755f30345fbec5d2f5b0d7b9c7d7a52e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\wdu_04_¾ÅÒõ°×¹Ç×¥ÏûÍö.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c7764755f30345fbec5d2f5b0d7b9c7d7a5cffbcdf62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f33322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f33332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f34312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îå¶¾½Ì\\wdu_05_¸òó¡¹¦.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee5b6bebdcc5c7764755f30355fb8f2f3a1b9a62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f34322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f34332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Òõ·çÊ´¹Ç.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd2f5b7e7cab4b9c72e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\wu\\Òõ·çÊ´¹Ç.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c77755cd2f5b7e7cab4b9c72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÐþÒõÕ¶.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd0fed2f5d5b62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\´©ÒÂÆÆ¼×.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb4a9d2c2c6c6bcd72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\¶Ï½î¸¯¹Ç.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb6cfbdeeb8afb9c72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f3132302e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_wu_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f77755f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\wu\\wd_xingxiaoguli_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c77755c77645f78696e677869616f67756c695f632e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\150\\wu\\wd_xingxiaoguli_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c77755c77645f78696e677869616f67756c695f642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_wu_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f77755f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\wu\\wd_youhunshiying_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c77755c77645f796f7568756e73686979696e675f632e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\wu\\wd_youhunshiying_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c77755c77645f796f7568756e73686979696e675f642e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\others\\2012yanhua1.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c6f74686572735c3230313279616e687561312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\others\\vngxinniankuaile.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c6f74686572735c766e6778696e6e69616e6b7561696c652e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\others\\2012yanhua3.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c6f74686572735c3230313279616e687561332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_jf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f6a662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_aq.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f61712e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_01_Æ®Ñ©´©ÔÆ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f30315fc6aed1a9b4a9d4c62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f31312e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_bz_bin5_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f627a5f62696e355fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f31332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f32312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_03_Ò»Ò¶ÖªÇï.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f30335fd2bbd2b6d6aac7ef2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f32322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f33312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_04_²»Ãð²»¾ø.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f30345fb2bbc3f0b2bbbef82e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_bin4_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f62696e345fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f33322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f34322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f34332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_12_´Èº½ÆÕ¶É.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f31325fb4c8babdc6d5b6c92e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\mag_spe_bo_°×.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45c6d61675f7370655f626f5fb0d72e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_em_02_ËÄÏóÍ¬¹é.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f656d5f30325fcbc4cff3cdacb9e92e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_bz_bin2_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f627a5f62696e325fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_em_252_fofa-wubian.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f656d5f3235325f666f66612d77756269616e2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÇåÒôèó¸è.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc7e5d2f4e8f3b8e82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Èý¶ëö©Ñ©.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc8fdb6ebf6a9d1a92e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Ç§·ðÇ§Ò¶.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc7a7b7f0c7a7d2b62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\½ð¶¥·ð¹â.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cbdf0b6a5b7f0b9e22e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\em\\em_±ùÐÄèóÒô.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c656d5c656d5fb1f9d0c4e8f3d2f42e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\em\\em_·çËªËéÓ°_Æ½·É.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c656d5c656d5fb7e7cbaacbe9d3b05fc6bdb7c92e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f3132302e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_em_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f656d5f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\em\\em_150_jiane_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c656d5c656d5f3135305f6a69616e655f7a642e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\150\\em\\em_150_luifenghuixue_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c656d5c656d5f3135305f6c756966656e676875697875655f642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_em_04.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f656d5f30342e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\em\\em_150_zhange_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c656d5c656d5f3135305f7a68616e67655f7a642e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\em\\em_150_jiane_ice.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c656d5c656d5f3135305f6a69616e655f6963652e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_em_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f656d5f30332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\em\\em_150_fue_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c656d5c656d5f3135305f6675655f7a642e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌÆÃÅ\\tm_11_µçµØÀ×.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccc6c3c55c746d5f31315fb5e7b5d8c0d72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_em_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f656d5f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_df.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f64662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_sd.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f73642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_01_·çÔÆÍ»Æð.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30315fb7e7d4c6cdbbc6f02e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f30332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_11_²¹ÑªÊõ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f31315fb2b9d1aacaf52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f31312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f31322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f31332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f32312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_03_Óê´òÀæ»¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30335fd3eab4f2c0e6bba82e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_bz_bin4_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f627a5f62696e345fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\¶ëáÒ\\mag_bz_bin3_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb6ebe1d25c6d61675f627a5f62696e335fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f32322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f33312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_04_ÄÁÒ°Á÷ÐÇ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30345fc4c1d2b0c1f7d0c72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f33322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f33332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f34312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_05_±Ìº£³±Éú_a.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30355fb1ccbaa3b3b1c9fa5f612e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_05_±Ìº£³±Éú_b.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30355fb1ccbaa3b3b1c9fa5f622e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f34322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_10_¹ÛÒôÉ¢Ñ©.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f31305fb9dbd2f4c9a2d1a92e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f34332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\ÑÌ»¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cd1ccbba82e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_09.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30392e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\±ùÐÄÑ©Á«.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb1f9d0c4d1a9c1ab2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\·çÑ©±ùÌì.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb7e7d1a9b1f9ccec2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\cy\\·çÑ©±ùÌì.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c63795cb7e7d1a9b1f9ccec2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\cy\\xx_·çÑ©±ùÌì.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c63795c78785fb7e7d1a9b1f9ccec2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\cy\\±ùÐÄÑ©Á«01.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c63795cb1f9d0c4d1a9c1ab30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\cy\\±ùÐÄÑ©Á«±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c63795cb1f9d0c4d1a9c1abb1acd5a82e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_02_·ç¾í²ÐÑ©_a.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30325fb7e7beedb2d0d1a95f612e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\´äÑÌ\\mag_cy_02_·ç¾í²ÐÑ©_b.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb4e4d1cc5c6d61675f63795f30325fb7e7beedb2d0d1a95f622e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_cy_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f63795f3132302e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\cy\\ÓùÑ©Òþ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c63795cd3f9d1a9d2fe2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_cy_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f63795f30332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\cy\\cy_150_daocui_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c63795c63795f3135305f64616f6375695f7a642e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\cy\\cy_150_daocui_bz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c63795c63795f3135305f64616f6375695f627a2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\cy\\cy_150_daocui_2.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c63795c63795f3135305f64616f6375695f322e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\150\\cy\\cy_150_bingqueluanxue_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c63795c63795f3135305f62696e677175656c75616e7875655f642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_cy_04.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f63795f30342e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\cy\\cy_150_neicui_xz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c63795c63795f3135305f6e65696375695f787a2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\cy\\cy_150_neicui_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c63795c63795f3135305f6e65696375695f7a642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_cy_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f63795f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_cy_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f63795f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\special\\texiao201.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c7370656369616c5c74657869616f3230312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_gf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f67662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_aq.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f61712e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_01_Í¶Ê¯ÎÊÂ·.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30315fcdb6caafcecac2b72e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_bz_tu1_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f627a5f7475315fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_bz_tu1.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f627a5f7475312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_06_¹ÂÄ¾¶ÝÀ×.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30365fb9c2c4beb6ddc0d72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f31312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_02_ÑØÃÅÍÐ²§.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30325fd1d8c3c5cdd0b2a72e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_bz1_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f627a315fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f31322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_09_±¼Á÷µ½º£.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30395fb1bcc1f7b5bdbaa32e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f31332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f32312e737072"
+    },
+    {
+      "field": "AnimFileB3",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_03_¼ûÈËÉìÊÖ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30335fbcfbc8cbc9eccad62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f32322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_08_¿üÄ¾ÐÇÕÕ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30385fbffcc4bed0c7d5d52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f33312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_04_ÌìÏÂÎÞ¹·.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30345fcceccfc2cedeb9b72e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo3_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f627a5f68756f335fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f33322e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_07_½ðÎÚÓ³Ñ©.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30375fbdf0cedad3b3d1a92e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f33332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f34312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_05_¿ºÁúÓÐ»Ú.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f30355fbfbac1fad3d0bbda2e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\Ø¤°ï\\mag_gb_bz5_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cd8a4b0ef5c6d61675f67625f627a355fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f34322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f34332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÁúÕ½ÔÚÒ°.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc1fad5bdd4dad2b02e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\gb\\ÁúÕ½ÓÚÒ°.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c67625cc1fad5bdd3dad2b02e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÌìÏÂÎÞ¹·.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5ccceccfc2cedeb9b72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\åÐÒ£¹¦.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5ce5d0d2a3b9a62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_gb_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f67625f3132302e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\gb\\gb_150_shishengliulong_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c67625c67625f3135305f7368697368656e676c69756c6f6e675f642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_gb_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f67625f30312e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\150\\gb\\gb_150_shichengjiulong_a.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c67625c67625f3135305f7368696368656e676a69756c6f6e675f612e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\gb\\gb_150_zhanggai_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c67625c67625f3135305f7a68616e676761695f7a642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_gb_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f67625f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\gb\\gb_150_gungai_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c67625c67625f3135305f67756e6761695f7a642e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\gb\\gb_150_gungai_bz.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c67625c67625f3135305f67756e6761695f627a2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\gb\\gb_150_zhanggai_huo.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c67625c67625f3135305f7a68616e676761695f68756f2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_df.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f64662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_mf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f6d662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_01_²ÐÑôÈçÑ©.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30315fb2d0d1f4c8e7d1a92e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f30332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_07.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f30372e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_02_ÍÆÉ½Ìîº£_a1.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30325fcdc6c9bdcceebaa35f61312e737072"
+    },
+    {
+      "field": "AnimFile3",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_02_ÍÆÉ½Ìîº£_a2.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30325fcdc6c9bdcceebaa35f61322e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_02_ÍÆÉ½Ìîº£_b1.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30325fcdc6c9bdcceebaa35f62312e737072"
+    },
+    {
+      "field": "AnimFileB3",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_02_ÍÆÉ½Ìîº£_b2.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30325fcdc6c9bdcceebaa35f62322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f31322e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_09_½èÁ¦´òÁ¦.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30395fbde8c1a6b4f2c1a62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f31332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f32312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f32322e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_09_ÍµÌì»»ÈÕ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30395fcdb5ccecbbbbc8d52e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_07_ÍµÌì»»ÈÕ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30375fcdb5ccecbbbbc8d52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_24.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f32342e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f33312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_04_µ¯Ö¸ÁÒÑæ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30345fb5afd6b8c1d2d1e62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f33322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f33332e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_09_ÎüÐÇ´ó·¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30395fcefcd0c7b4f3b7a82e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_tr_08_ÎüÐÇ´ó·¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f74725f30385fcefcd0c7b4f3b7a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f34312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f34332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\ÌìÈÌ\\mag_bz_huo4_±¬Õ¨Ð§¹û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cccecc8cc5c6d61675f627a5f68756f345fb1acd5a8d0a7b9fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_tr_254_zhiyan.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f74725f3235345f7a686979616e2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÔÆÁú»÷.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd4c6c1fabbf72e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_02_¼²µç·¨a.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f30325fbcb2b5e7b7a8612e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\tr\\ÔÆÁú»÷.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c74725cd4c6c1fabbf72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Òµ»ð·Ù³Ç.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd2b5bbf0b7d9b3c72e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tr\\zd_Òµ»ð·Ù³Ç.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c74725c7a645fd2b5bbf0b7d9b3c72e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\tr\\Òµ»ð·Ù³Ç.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c74725cd2b5bbf0b7d9b3c72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\±¯ÊéÇå·ç.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb1afcae9c7e5b7e72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Éã»êÂÒÐÄ.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc9e3bbeac2d2d0c42e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_tr_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f74725f3132302e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tr_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f74725f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\tr\\tr_150_jianghainvlan_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c74725c74725f3135305f6a69616e676861696e766c616e5f632e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_tr_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f74725f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\tr\\tr_150_moren_zd.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c74725c74725f3135305f6d6f72656e5f7a642e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\tr\\tr_150_jihuoliaoyuan_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c74725c74725f3135305f6a6968756f6c69616f7975616e5f632e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_jf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f6a662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wd_qf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77645f71662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f30312e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_16_Ä§·¨Ê©·Å.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f31365fc4a7b7a8caa9b7c52e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\wd_01_Å­À×Ö¸.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c77645f30315fc5adc0d7d6b82e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\Bz_dian1_±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c427a5f6469616e315fb1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_13.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f31332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\wd_02_²×º£Ã÷ÔÂ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c77645f30325fb2d7baa3c3f7d4c22e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f31312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f31322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f32322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\wd_03_Ìì¼Ê¾ªÀ×.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c77645f30335fccecbccabeaac0d72e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\Bz_dian3_±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c427a5f6469616e335fb1acd5a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f32312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f33312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f33322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f33332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\wd_09_ÈË½£ºÏÒ»½£.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c77645f30395fc8cbbda3bacfd2bbbda32e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_42.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f34322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\wd_05_°þ¼°¶ø¸´.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c77645f30355fb0febcb0b6f8b8b42e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f34332e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\Îäµ±\\wd_10_ÎÞÎÒÎÞ½£.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5ccee4b5b15c77645f31305fcedeced2cedebda32e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_41.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f34312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\Ãµ¹åµØÃæ03.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cc3b5b9e5b5d8c3e630332e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\Ãµ¹åµØÃæ01.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cc3b5b9e5b5d8c3e630312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\ÌìµØÎÞ¼¶.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cccecb5d8cedebcb62e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\wd\\ÌìµØÎÞ¼«.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c77645cccecb5d8cedebcab2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\À¶Ãµ¹åµØÃæ03.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cc0b6c3b5b9e5b5d8c3e630332e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\À¶Ãµ¹åµØÃæ01.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cc0b6c3b5b9e5b5d8c3e630312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\Ñ©»¨µØÃæ03.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cd1a9bba8b5d8c3e630332e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\²¹³ä\\Ñ©»¨µØÃæ01.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cb2b9b3e45cd1a9bba8b5d8c3e630312e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_wa_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f77615f3132302e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_wd_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f77645f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\wd\\wd_150_zaohuataiqing_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c77645c77645f3135305f7a616f68756174616971696e675f632e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_wd_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f77645f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\wd\\wd_150_jianchuixinghe_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c77645c77645f3135305f6a69616e6368756978696e6768655f642e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\wd\\wd_150_jianchuixinghe_a.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c77645c77645f3135305f6a69616e6368756978696e6768655f612e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_em_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f656d5f33332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_df.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f64662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_jf.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f6a662e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f30312e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_01_ºô·ç·¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f30315fbaf4b7e7b7a82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f30322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_03.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f30332e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_11_Çå·ç·û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f31315fc7e5b7e7b7fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_11.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f31312e737072"
+    },
+    {
+      "field": "AnimFileB2",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_02_¼²µç·¨b.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f30325fbcb2b5e7b7a8622e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_12.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f31322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_43.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f34332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_14.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f31342e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_21.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f32312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_03_¿ñ·çÖèµç.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f30335fbff1b7e7d6e8b5e72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_22.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f32322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_23.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f32332e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_31.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f33312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\KL_04_¿ñÀ×ÕðµØ.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c4b4c5f30345fbff1c0d7d5f0b5d82e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_32.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f33322e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_33.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f33332e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_14_ÆúÐÄ·û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f31345fc6fad0c4b7fb2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_05_ÎåÀ×Õý·¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f30355fcee5c0d7d5fdb7a82e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_15_ËêÔÂÎÞÇé·û.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f31355fcbead4c2cedec7e9b7fb2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\°ÁÑ©Ð¥Ìì.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb0c1d1a9d0a5ccec2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\kl\\°ÁÑ©Ïô·ç.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c6b6c5cb0c1d1a9cff4b7e72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\À×¶¯¾ÅÌì.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cc0d7b6afbec5ccec2e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\Bz_dian4_±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c427a5f6469616e345fb1acd5a82e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\kl\\À×¶¯¾ÅÌì.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c6b6c5cc0d7b6afbec5ccec2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\×íÏÉ´í¹Ç.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd7edcfc9b4edb9c72e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\Êø¸¿Öä.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5ccaf8b8bfd6e42e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\±±Ú¤µÁº£.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cb1b1daa4b5c1baa32e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_17_Ä§·¨Ê©·Å.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f31375fc4a7b7a8caa9b7c52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\skill\\×íÏç´í¹Ç.spr",
+      "path_bytes_hex": "5c7370725c55695c736b696c6c5cd7edcfe7b4edb9c72e737072"
+    },
+    {
+      "field": "PreCastSpr",
+      "path_8bit_latin1": "\\spr\\skill\\À¥ÂØ\\kl_18_Ä§·¨Ê©·Å.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5cc0a5c2d85c6b6c5f31385fc4a7b7a8caa9b7c52e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\½Ù¸»¼ÃÆ¶.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5cbdd9b8bbbcc3c6b62e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\ÐþÌìÎÞ¼«.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5cd0fecceccedebcab2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\companion\\niuzhuanqiankun.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c636f6d70616e696f6e5c6e69757a6875616e7169616e6b756e2e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\icon_sk_kl_120.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c69636f6e5f736b5f6b6c5f3132302e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_kl_01.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f6b6c5f30312e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\kl\\kl_150_fengmingyusui_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c6b6c5c6b6c5f3135305f66656e676d696e6779757375695f632e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\150\\kl\\kl_150_fengmingyusui_d.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c6b6c5c6b6c5f3135305f66656e676d696e6779757375695f642e737072"
+    },
+    {
+      "field": "SkillIcon",
+      "path_8bit_latin1": "\\spr\\Ui\\¼¼ÄÜÍ¼±ê\\150\\icon_sk_150_kl_02.spr",
+      "path_bytes_hex": "5c7370725c55695cbcbcc4dccdbcb1ea5c3135305c69636f6e5f736b5f3135305f6b6c5f30322e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\1502\\kl\\kl_150_jiankun_fu.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c313530325c6b6c5c6b6c5f3135305f6a69616e6b756e5f66752e737072"
+    },
+    {
+      "field": "AnimFile2",
+      "path_8bit_latin1": "\\spr\\skill\\150\\kl\\kl_150_leidianjiuxiao_c.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c3135305c6b6c5c6b6c5f3135305f6c65696469616e6a69757869616f5f632e737072"
+    },
+    {
+      "field": "AnimFile4",
+      "path_8bit_latin1": "\\spr\\skill\\npc\\Í¶Ê¯±ù±¬Õ¨.spr",
+      "path_bytes_hex": "5c7370725c736b696c6c5c6e70635ccdb6caafb1f9b1acd5a82e737072"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "project_base": "JXNHALAM_V6_7_6_DAO322_NATIVE_FRAME_AUDIT_FULL.zip",
+  "base_sha256": "38c62767f6ef38f00fe358295871b3224d068b327e9408d755af2ac25168f81d",
+  "v20_atlas_sha256": "c3a6822b3833485d13e1e2b4e9411540d7c8e8fee0be980221eeabccd842d7d4",
+  "v19_priority_csv_sha256": "c6922bbfbece29d3fb087e056075e7d2588457ad9ab667e25f58e5a744d5fe95",
+  "godot_engine_tested": false,
+  "runtime_godot_validated": false,
+  "scope": "Standalone 6-skill playable inspection lab via F8, original game unchanged except menu entry",
+  "files_sha256": {
+    "scripts/V21CombatLab.gd": "ff6c48e837ba31aaae5abda17354244d58ff680602052e173c4c8c39c50f4d0d",
+    "scripts/V21LabMissile.gd": "bd52ef3f5fe1364e2183efd064bbdfa38294962a0a26bcd273c3d47fcbe401d3",
+    "scenes/v21_lab.tscn": "5694df47849dc2e29549dfab3fe7d880371e050b8bf31d869974b6f10ce16d2c",
+    "data/v21/six_skills_v21.json": "9b4f15a39e524fb51f2c4f94adfa86f6dce851fd4008e23308eb3371b5f9823d",
+    "scripts/Main.gd": "99b63cc3886233a12942ec1903c2d3ad0ed4df11403a4d7d8b6d30cc2966bac2"
+  },
+  "source_table_validation_assertions": 2551
+}

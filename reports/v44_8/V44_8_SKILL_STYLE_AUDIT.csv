@@ -1,0 +1,25 @@
+﻿school,skill_id,skill_name,skill_style,form,form_category,melee_form,child_skill_id,missile_move_kind,collision_visual_status
+Cái Bang,357,Phi Long Tại Thiên,0,0,missile,,166,5,NOT_MODIFIED_V448
+Cái Bang,359,Thiên Hạ Vô Cẩu,0,0,missile,,168,5,NOT_MODIFIED_V448
+Côn Lôn,372,Ngạo Tuyết Tiêu Phong,0,1,missile,,178,1,NOT_MODIFIED_V448
+Côn Lôn,375,Lôi Động Cửu Thiên,0,6,missile,,181,0,NOT_MODIFIED_V448
+Đường Môn,339,Nhiếp Hồn Nguyệt Ảnh,0,1,missile,,149,1,NOT_MODIFIED_V448
+Đường Môn,342,Cửu Cung Phi Tinh,0,2,missile,,152,100,PER_PROJECTILE_HIT_QA
+Đường Môn,302,Bạo Vũ Lê Hoa,0,6,missile,,96,0,NOT_MODIFIED_V448
+Đường Môn,351,Loạn Hoàn Kích,0,7,missile,,161,0,NOT_MODIFIED_V448
+Nga Mi,328,Tam Nga Tế Nguyệt,0,0,missile,,142,1,NOT_MODIFIED_V448
+Nga Mi,380,Phong Sương Toái Ảnh,0,6,missile,,186,0,NOT_MODIFIED_V448
+Ngũ Độc,353,Âm Phong Thực Cốt,0,6,missile,,163,0,NOT_MODIFIED_V448
+Ngũ Độc,355,Huyền Âm Trảm,0,1,missile,,165,1,NOT_MODIFIED_V448
+Thiên Nhẫn,361,Vân Long Kích,0,1,missile,,169,1,NOT_MODIFIED_V448
+Thiên Nhẫn,362,Thiên Ngoại Lưu Tinh,0,6,missile,,171,0,NOT_MODIFIED_V448
+Thiên Vương,322,Phá Thiên Trảm,1,12,melee,ManyAttack,326,1,NOT_MODIFIED_V448
+Thiên Vương,323,Truy Tinh Trục Nguyệt,1,12,melee,ManyAttack,327,1,NOT_MODIFIED_V448
+Thiên Vương,325,Truy Phong Quyết,1,12,melee,ManyAttack,408,0,NOT_MODIFIED_V448
+Thiếu Lâm,318,Đạt Ma Độ Giang,1,12,melee,ManyAttack,317,4,MELEE_MULTICAST_UNVERIFIED
+Thiếu Lâm,319,Hoành Tảo Thiên Quân,0,7,missile,,135,0,NOT_MODIFIED_V448
+Thiếu Lâm,321,Vô Tướng Trảm,0,1,missile,,136,1,NOT_MODIFIED_V448
+Thúy Yên,336,Băng Tung Vô Ảnh,0,2,missile,,146,1,NOT_MODIFIED_V448
+Thúy Yên,337,Băng Tâm Tiên Tử,0,1,missile,,147,1,NOT_MODIFIED_V448
+Võ Đang,365,Thiên Địa Vô Cực,0,6,missile,,173,0,NOT_MODIFIED_V448
+Võ Đang,368,Nhân Kiếm Hợp Nhất,0,1,missile,,175,1,NOT_MODIFIED_V448

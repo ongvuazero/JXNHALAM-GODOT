@@ -1,0 +1,34 @@
+{
+  "jx90_potian_impact": {
+    "file": "res://assets/skill90/jx90_potian_impact.png",
+    "tile": 320,
+    "frames_per_direction": 8,
+    "directions": 1,
+    "anim_ms": 50,
+    "original_spr_sha256": "5cd06f661bba9b3ea597a870adb23efff6087d46ab3fe794e884207ea01185ff"
+  },
+  "jx90_truytinh_impact": {
+    "file": "res://assets/skill90/jx90_truytinh_impact.png",
+    "tile": 256,
+    "frames_per_direction": 6,
+    "directions": 1,
+    "anim_ms": 41,
+    "original_spr_sha256": "533669a89d959562c69a4df771c84d1c06b72d48222b0d6fdcdf3dd52e7c551b"
+  },
+  "jx90_truyphong_sweep": {
+    "file": "res://assets/skill90/jx90_truyphong_sweep.png",
+    "tile": 256,
+    "frames_per_direction": 10,
+    "directions": 32,
+    "anim_ms": 50,
+    "original_spr_sha256": "ded689ad07dfe584fc462fe940b5a8dfc753f92c94554e2f1e09b5a4b69aab4b"
+  },
+  "jx90_truyphong_impact": {
+    "file": "res://assets/skill90/jx90_truyphong_impact.png",
+    "tile": 256,
+    "frames_per_direction": 6,
+    "directions": 1,
+    "anim_ms": 20,
+    "original_spr_sha256": "ba88d9f5fb8396cd9adf38d0c1e6e033b22f022e7c230f3e0344868f255f267e"
+  }
+}

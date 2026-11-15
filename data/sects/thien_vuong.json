@@ -1,0 +1,105 @@
+{
+  "id": "thien_vuong",
+  "name": "Thiên Vương",
+  "status": "playable_prototype",
+  "visual_manifest": "res://assets/character/manifest.json",
+  "weapons": [
+    {
+      "id": "blade",
+      "visual_id": "blade",
+      "label": "ĐAO",
+      "icon": "res://assets/skill90/icon_9x_322.png",
+      "skills": [
+        {
+          "id": "tv_9x_322",
+          "legacy_skill_id": 322,
+          "name": "Phá Thiên Trảm",
+          "cast_ms": 340,
+          "release_ms": 340,
+          "character_cast_ms": 780,
+          "recovery_ms": 130,
+          "hit_ms": 300,
+          "end_ms": 130,
+          "cooldown_ms": 850,
+          "damage": 140,
+          "hit_radius": 92,
+          "socket_x": 0,
+          "socket_y": -70,
+          "combat_delivery": "melee_attached",
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "jx90_potian_impact",
+            "end": "jx90_potian_impact"
+          },
+          "vfx_native_policy": "SPR source preferred; fallback original 9x ClientData; no 150 assets"
+        }
+      ]
+    },
+    {
+      "id": "spear",
+      "visual_id": "spear",
+      "label": "THƯƠNG",
+      "icon": "res://assets/skill90/icon_9x_323.png",
+      "skills": [
+        {
+          "id": "tv_9x_323",
+          "legacy_skill_id": 323,
+          "name": "Truy Tinh Trục Nguyệt",
+          "cast_ms": 350,
+          "release_ms": 350,
+          "character_cast_ms": 780,
+          "recovery_ms": 130,
+          "hit_ms": 300,
+          "end_ms": 130,
+          "cooldown_ms": 850,
+          "damage": 120,
+          "hit_radius": 92,
+          "socket_x": 0,
+          "socket_y": -70,
+          "combat_delivery": "melee_attached",
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "jx90_truytinh_impact",
+            "end": "jx90_truytinh_impact"
+          },
+          "vfx_native_policy": "SPR source preferred; fallback original 9x ClientData; no 150 assets"
+        }
+      ]
+    },
+    {
+      "id": "hammer",
+      "visual_id": "hammer",
+      "label": "CHÙY",
+      "icon": "res://assets/skill90/icon_9x_325.png",
+      "skills": [
+        {
+          "id": "tv_9x_325",
+          "legacy_skill_id": 325,
+          "name": "Truy Phong Quyết",
+          "cast_ms": 350,
+          "release_ms": 350,
+          "character_cast_ms": 1250,
+          "recovery_ms": 130,
+          "hit_ms": 300,
+          "end_ms": 130,
+          "cooldown_ms": 850,
+          "damage": 180,
+          "hit_radius": 92,
+          "socket_x": 0,
+          "socket_y": -70,
+          "combat_delivery": "melee_attached",
+          "vfx": {
+            "cast": "",
+            "fly": "jx90_truyphong_sweep",
+            "hit": "jx90_truyphong_impact",
+            "end": "jx90_truyphong_impact"
+          },
+          "vfx_native_policy": "SPR source preferred; fallback original 9x ClientData; no 150 assets"
+        }
+      ]
+    }
+  ],
+  "combat_standard": "CTC server 9x Thiên Vương; user-selected 322/323/325; melee 9x layout"
+}

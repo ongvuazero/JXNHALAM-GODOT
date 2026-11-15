@@ -1,0 +1,12 @@
+JXNHALAM V27 AT03 SOURCE-SPR AUDIT
+AT03: 0 new, 6 existing, 0 missing, 0 invalid; 0 PAK indexes
+client_root=C:/Users/HanTin/Desktop/vltk PA/spr/game spr/1/JXNHALAM_V4_10PHAI_SERVER_BASELINE_GODOT_PROJECT/Godot_Project
+
+DETAIL:
+EXISTING_VALID: MA_BD_001_AT03.spr (khong ghi de)
+EXISTING_VALID: MA_LH_001_AT03.spr (khong ghi de)
+EXISTING_VALID: MA_RH_001_AT03.spr (khong ghi de)
+EXISTING_VALID: MA_HD_001_AT03.spr (khong ghi de)
+EXISTING_VALID: MA_LW_000_AT03.spr (khong ghi de)
+EXISTING_VALID: MA_RW_004_AT03.spr (khong ghi de)
+PAK_WARNING: No client data/*.pak mounted. Built-in PNG atlas remains available.

@@ -1,0 +1,14 @@
+﻿.godot/
+__pycache__/
+*.pyc
+*.import
+*.translation
+*.log
+*.tmp
+*.bak
+*.zip
+*.rar
+*.tgz
+*.pak
+client_root.txt
+reports/**/runtime/

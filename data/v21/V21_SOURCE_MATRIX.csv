@@ -1,0 +1,7 @@
+﻿skill,faction,family,child,child_attempts,missile,configured_missiles_per_child,total_test_allocations,server_runtime_allocation_confirmed,timeline_evidence,final_HP_damage_verified
+322,Thiên Vương,STYLE1_FORM12,326,1,138,3,3,3,WAIT_FOR_FRAME_COUNTS,NO
+323,Thiên Vương,STYLE1_FORM12,327,5,139,1,5,5,WAIT_FOR_FRAME_COUNTS,NO
+325,Thiên Vương,STYLE1_FORM12,408,1,141,3,3,3,WAIT_FOR_FRAME_COUNTS,NO
+318,Thiếu Lâm,STYLE1_FORM12,317,2,134,1,2,NOT_MEASURED,WAIT_FOR_FRAME_COUNTS,NO
+319,Thiếu Lâm,STYLE0_ATTACK,135,1,54,1,1,NOT_MEASURED,DISPLAY_ONLY_NOT_VERIFIED,NO
+321,Thiếu Lâm,STYLE0_ATTACK,136,2,20,1,2,NOT_MEASURED,DISPLAY_ONLY_NOT_VERIFIED,NO

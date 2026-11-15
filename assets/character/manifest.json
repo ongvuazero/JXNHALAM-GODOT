@@ -1,0 +1,184 @@
+{
+  "spear": {
+    "stand": {
+      "file": "res://assets/character/spear_stand.png",
+      "frames_per_direction": 11,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 90,
+      "source_spr": [
+        "MA_BD_001_ST05.spr",
+        "MA_LH_001_ST05.spr",
+        "MA_RH_001_ST05.spr",
+        "MA_HD_001_ST05.spr",
+        "MA_RW_007_ST05.spr"
+      ]
+    },
+    "run": {
+      "file": "res://assets/character/spear_run.png",
+      "frames_per_direction": 11,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 90,
+      "source_spr": [
+        "MA_BD_001_RN03.spr",
+        "MA_LH_001_RN03.spr",
+        "MA_RH_001_RN03.spr",
+        "MA_HD_001_RN03.spr",
+        "MA_RW_007_RN03.spr"
+      ]
+    },
+    "attack": {
+      "file": "res://assets/character/spear_attack.png",
+      "frames_per_direction": 12,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 75,
+      "source_spr": [
+        "MA_BD_001_AT04.spr",
+        "MA_LH_001_AT04.spr",
+        "MA_RH_001_AT04.spr",
+        "MA_HD_001_AT04.spr",
+        "MA_RW_007_AT04.spr"
+      ]
+    },
+    "cast": {
+      "file": "res://assets/character/spear_cast.png",
+      "frames_per_direction": 13,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 75,
+      "source_spr": [
+        "MA_BD_001_MG04.spr",
+        "MA_LH_001_MG04.spr",
+        "MA_RH_001_MG04.spr",
+        "MA_HD_001_MG04.spr",
+        "MA_RW_007_MG04.spr"
+      ]
+    }
+  },
+  "blade": {
+    "stand": {
+      "file": "res://assets/character/blade_stand.png",
+      "frames_per_direction": 11,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 90,
+      "source_spr": [
+        "MA_BD_001_ST04.spr",
+        "MA_LH_001_ST04.spr",
+        "MA_RH_001_ST04.spr",
+        "MA_HD_001_ST04.spr",
+        "MA_LW_000_ST04.spr",
+        "MA_RW_004_ST04.spr"
+      ]
+    },
+    "run": {
+      "file": "res://assets/character/blade_run.png",
+      "frames_per_direction": 11,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 90,
+      "source_spr": [
+        "MA_BD_001_RN02.spr",
+        "MA_LH_001_RN02.spr",
+        "MA_RH_001_RN02.spr",
+        "MA_HD_001_RN02.spr",
+        "MA_LW_000_RN02.spr",
+        "MA_RW_004_RN02.spr"
+      ]
+    },
+    "attack": {
+      "file": "res://assets/character/blade_attack.png",
+      "frames_per_direction": 16,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 75,
+      "source_spr": [
+        "MA_BD_001_AT02.spr",
+        "MA_LH_001_AT02.spr",
+        "MA_RH_001_AT02.spr",
+        "MA_HD_001_AT02.spr",
+        "MA_LW_000_AT02.spr",
+        "MA_RW_004_AT02.spr"
+      ]
+    },
+    "cast": {
+      "file": "res://assets/character/blade_cast.png",
+      "frames_per_direction": 12,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 75,
+      "source_spr": [
+        "MA_BD_001_MG03.spr",
+        "MA_LH_001_MG03.spr",
+        "MA_RH_001_MG03.spr",
+        "MA_HD_001_MG03.spr",
+        "MA_LW_000_MG03.spr",
+        "MA_RW_004_MG03.spr"
+      ]
+    }
+  },
+  "hammer": {
+    "stand": {
+      "file": "res://assets/character/hammer_stand.png",
+      "frames_per_direction": 11,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 90,
+      "source_spr": [
+        "MA_BD_001_ST06.spr",
+        "MA_LH_001_ST06.spr",
+        "MA_RH_001_ST06.spr",
+        "MA_HD_001_ST06.spr",
+        "MA_LW_016_ST06.spr",
+        "MA_RW_016_ST06.spr"
+      ]
+    },
+    "run": {
+      "file": "res://assets/character/hammer_run.png",
+      "frames_per_direction": 11,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 90,
+      "source_spr": [
+        "MA_BD_001_RN04.spr",
+        "MA_LH_001_RN04.spr",
+        "MA_RH_001_RN04.spr",
+        "MA_HD_001_RN04.spr",
+        "MA_LW_016_RN04.spr",
+        "MA_RW_016_RN04.spr"
+      ]
+    },
+    "attack": {
+      "file": "res://assets/character/hammer_attack.png",
+      "frames_per_direction": 16,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 75,
+      "source_spr": [
+        "MA_BD_001_AT06.spr",
+        "MA_LH_001_AT06.spr",
+        "MA_RH_001_AT06.spr",
+        "MA_HD_001_AT06.spr",
+        "MA_LW_016_AT06.spr",
+        "MA_RW_016_AT06.spr"
+      ]
+    },
+    "cast": {
+      "file": "res://assets/character/hammer_cast.png",
+      "frames_per_direction": 16,
+      "directions": 8,
+      "tile": 192,
+      "anim_ms": 75,
+      "source_spr": [
+        "MA_BD_001_MG05.spr",
+        "MA_LH_001_MG05.spr",
+        "MA_RH_001_MG05.spr",
+        "MA_HD_001_MG05.spr",
+        "MA_LW_016_MG05.spr",
+        "MA_RW_016_MG05.spr"
+      ]
+    }
+  }
+}

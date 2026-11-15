@@ -1,0 +1,8 @@
+{
+  "default_skill_level": 20,
+  "max_nested_event_depth": 2,
+  "max_linked_sprites_per_cast": 8,
+  "linked_flight_qa_px_s": 420.0,
+  "linked_follow_qa_turn_rate": 9.0,
+  "notice": "Lua events and linked skill IDs are source-derived. Stage geometry, velocity, spacing and event delivery timing remain QA-only."
+}

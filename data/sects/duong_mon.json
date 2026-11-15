@@ -1,0 +1,248 @@
+{
+  "id": "duong_mon",
+  "name": "Đường Môn",
+  "status": "playable_prototype",
+  "visual_manifest": "res://assets/character/manifest.json",
+  "visual_disclaimer": "TEMPORARY Thien Vuong body sprites for engineering tests; NOT authentic school art",
+  "combat_standard": "CTC main combat 90 route buttons only; other source skills kept in settings; VFX/HP remain QA until original SPR verified",
+  "weapons": [
+    {
+      "id": "branch_1",
+      "visual_id": "blade",
+      "label": "Nhiếp Hồn Nguyệt Ảnh",
+      "icon": "",
+      "skills": [
+        {
+          "id": "jx_339",
+          "legacy_skill_id": 339,
+          "name": "Nhiếp Hồn Nguyệt Ảnh",
+          "preview_sect": "duong_mon",
+          "source_script": "script/skill/tangmen.lua",
+          "source_child_skill_id": 149,
+          "source_child_skill_num": 1,
+          "source_missles_form": 1,
+          "source_msls_generate": 2,
+          "source_wait_time": 5,
+          "missile_ids": [
+            149
+          ],
+          "missile_move_kind": 1,
+          "missile_speed_raw": 32,
+          "original_precast_spr": "",
+          "original_missile_spr": [
+            "",
+            "\\spr\\skill\\tm\\Òøµ¶ÉäÔÂ_02.spr",
+            "",
+            ""
+          ],
+          "original_anim_info": {
+            "cast": "",
+            "fly": "18,1,1",
+            "travel_end": "",
+            "hit": ""
+          },
+          "attack_radius_raw": 360,
+          "attack_radius": 220,
+          "hit_radius": 60,
+          "character_cast_ms": 680,
+          "cast_ms": 390,
+          "release_ms": 390,
+          "recovery_ms": 120,
+          "cooldown_ms": 780,
+          "target_enemy": true,
+          "target_self": false,
+          "damage": 10,
+          "damage_is_debug_only": true,
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "",
+            "end": ""
+          },
+          "has_vfx": true,
+          "visual_status": "external_source_spr_REQUIRED_not_qa_fake",
+          "combat_status": "demo_no_native_damage"
+        }
+      ]
+    },
+    {
+      "id": "branch_2",
+      "visual_id": "spear",
+      "label": "Cửu Cung Phi Tinh",
+      "icon": "",
+      "skills": [
+        {
+          "id": "jx_342",
+          "legacy_skill_id": 342,
+          "name": "Cửu Cung Phi Tinh",
+          "preview_sect": "duong_mon",
+          "source_script": "script/skill/tangmen.lua",
+          "source_child_skill_id": 152,
+          "source_child_skill_num": 5,
+          "source_missles_form": 2,
+          "source_msls_generate": 5,
+          "source_wait_time": 2,
+          "missile_ids": [
+            152
+          ],
+          "missile_move_kind": 100,
+          "missile_speed_raw": 32,
+          "original_precast_spr": "",
+          "original_missile_spr": [
+            "",
+            "\\spr\\skill\\tm\\¾Å¹¬·ÉÐÇ.spr",
+            "",
+            "\\spr\\skill\\tm\\¾Å¹¬·ÉÐÇ.spr"
+          ],
+          "original_anim_info": {
+            "cast": "",
+            "fly": "8,1,1",
+            "travel_end": "",
+            "hit": "8,1,1"
+          },
+          "attack_radius_raw": 360,
+          "attack_radius": 220,
+          "hit_radius": 60,
+          "character_cast_ms": 680,
+          "cast_ms": 390,
+          "release_ms": 390,
+          "recovery_ms": 120,
+          "cooldown_ms": 780,
+          "target_enemy": true,
+          "target_self": false,
+          "damage": 10,
+          "damage_is_debug_only": true,
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "",
+            "end": ""
+          },
+          "has_vfx": true,
+          "visual_status": "external_source_spr_or_diagnostic_only",
+          "combat_status": "demo_no_native_damage"
+        }
+      ]
+    },
+    {
+      "id": "branch_3",
+      "visual_id": "hammer",
+      "label": "Bạo Vũ Lê Hoa",
+      "icon": "",
+      "skills": [
+        {
+          "id": "jx_302",
+          "legacy_skill_id": 302,
+          "name": "Bạo Vũ Lê Hoa",
+          "preview_sect": "duong_mon",
+          "source_script": "script/skill/tangmen.lua",
+          "source_child_skill_id": 96,
+          "source_child_skill_num": 1,
+          "source_missles_form": 6,
+          "source_msls_generate": 0,
+          "source_wait_time": 5,
+          "missile_ids": [
+            96
+          ],
+          "missile_move_kind": 0,
+          "missile_speed_raw": 0,
+          "original_precast_spr": "",
+          "original_missile_spr": [
+            "",
+            "\\spr\\skill\\ÌÆÃÅ\\tm_07_Ð¡Àî·Éµ¶.spr",
+            "",
+            ""
+          ],
+          "original_anim_info": {
+            "cast": "",
+            "fly": "90,1,1",
+            "travel_end": "",
+            "hit": ""
+          },
+          "attack_radius_raw": 470,
+          "attack_radius": 220,
+          "hit_radius": 60,
+          "character_cast_ms": 680,
+          "cast_ms": 390,
+          "release_ms": 390,
+          "recovery_ms": 120,
+          "cooldown_ms": 780,
+          "target_enemy": true,
+          "target_self": false,
+          "damage": 10,
+          "damage_is_debug_only": true,
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "",
+            "end": ""
+          },
+          "has_vfx": true,
+          "visual_status": "external_source_spr_or_diagnostic_only",
+          "combat_status": "demo_no_native_damage"
+        }
+      ]
+    },
+    {
+      "id": "branch_4",
+      "visual_id": "blade",
+      "label": "Loạn Hoàn Kích",
+      "icon": "",
+      "skills": [
+        {
+          "id": "jx_351",
+          "legacy_skill_id": 351,
+          "name": "Loạn Hoàn Kích",
+          "preview_sect": "duong_mon",
+          "source_script": "script/skill/tangmen.lua",
+          "source_child_skill_id": 161,
+          "source_child_skill_num": 1,
+          "source_missles_form": 7,
+          "source_msls_generate": 0,
+          "source_wait_time": 0,
+          "missile_ids": [
+            161
+          ],
+          "missile_move_kind": 0,
+          "missile_speed_raw": 0,
+          "original_precast_spr": "",
+          "original_missile_spr": [
+            "",
+            "\\spr\\skill\\tm\\xj_×ÏÉ«ÏÝÚå.spr",
+            "",
+            ""
+          ],
+          "original_anim_info": {
+            "cast": "",
+            "fly": "1080,1,1",
+            "travel_end": "",
+            "hit": ""
+          },
+          "attack_radius_raw": 50,
+          "attack_radius": 88,
+          "hit_radius": 60,
+          "character_cast_ms": 680,
+          "cast_ms": 390,
+          "release_ms": 390,
+          "recovery_ms": 120,
+          "cooldown_ms": 780,
+          "target_enemy": true,
+          "target_self": false,
+          "damage": 10,
+          "damage_is_debug_only": true,
+          "vfx": {
+            "cast": "",
+            "fly": "",
+            "hit": "",
+            "end": ""
+          },
+          "has_vfx": true,
+          "visual_status": "external_source_spr_REQUIRED_not_qa_fake",
+          "combat_status": "demo_no_native_damage"
+        }
+      ]
+    }
+  ],
+  "branch_count": 4,
+  "branch_notes": "Branch count is NOT total usable JX skill count. Buff/debuff/aura must live in own bars, not forced to an extra attack branch."
+}

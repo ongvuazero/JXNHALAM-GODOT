@@ -1,0 +1,22 @@
+﻿sect,skill_id,skill_name,skill_style,missles_form,move_kind,child_missile_id,native_child_count,generate_style,step_ticks,wait_ticks,param1_raw,param2_raw,v449_status,qa_unit_scale_verified
+cai_bang,357,Phi Long Tại Thiên,0,0,5,166,3,5,0,5,32,65537,EXISTING_HOMING,NO
+cai_bang,359,Thiên Hạ Vô Cẩu,0,0,5,168,16,5,0,5,32,65537,EXISTING_HOMING,NO
+con_lon,372,Ngạo Tuyết Tiêu Phong,0,1,1,178,1,0,0,5,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+con_lon,375,Lôi Động Cửu Thiên,0,6,0,181,4,3,5,2,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+duong_mon,339,Nhiếp Hồn Nguyệt Ảnh,0,1,1,149,1,2,5,5,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+duong_mon,342,Cửu Cung Phi Tinh,0,2,100,152,5,5,2,2,1,0,EXISTING_ROLLBACK,NO
+duong_mon,302,Bạo Vũ Lê Hoa,0,6,0,96,1,0,0,5,1,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+duong_mon,351,Loạn Hoàn Kích,0,7,0,161,1,0,0,0,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+nga_mi,328,Tam Nga Tế Nguyệt,0,0,1,142,3,5,1,0,22,65537,UNCHANGED_NEEDS_NATIVE_QA,NO
+nga_mi,380,Phong Sương Toái Ảnh,0,6,0,186,1,0,0,0,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+ngu_doc,353,Âm Phong Thực Cốt,0,6,0,163,1,0,0,0,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+ngu_doc,355,Huyền Âm Trảm,0,1,1,165,2,2,6,0,0,0,NEW_LINE,NO
+thien_nhan,361,Vân Long Kích,0,1,1,169,1,0,0,0,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+thien_nhan,362,Thiên Ngoại Lưu Tinh,0,6,0,171,1,0,0,0,1,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+thieu_lam,318,Đạt Ma Độ Giang,1,12,4,317,2,1,5,0,10,0,MELEE_UNVERIFIED,NO
+thieu_lam,319,Hoành Tảo Thiên Quân,0,7,0,135,1,0,0,2,0,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+thieu_lam,321,Vô Tướng Trảm,0,1,1,136,2,2,9,5,0,0,NEW_LINE,NO
+thuy_yen,336,Băng Tung Vô Ảnh,0,2,1,146,5,0,1,6,2,24,NEW_SPREAD,NO
+thuy_yen,337,Băng Tâm Tiên Tử,0,1,1,147,1,0,0,2,0,5,UNCHANGED_NEEDS_NATIVE_QA,NO
+vo_dang,365,Thiên Địa Vô Cực,0,6,0,173,1,0,0,5,1,0,UNCHANGED_NEEDS_NATIVE_QA,NO
+vo_dang,368,Nhân Kiếm Hợp Nhất,0,1,1,175,3,2,6,0,0,0,NEW_LINE,NO
